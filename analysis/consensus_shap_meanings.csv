@@ -1,0 +1,421 @@
+task,cluster,n_bits,mean_rank,rank_std,n_seeds,n_active_mols,top_fg,top_fg_enrichment
+NR-AR,70,27,0.0,0.0,5,2801,Ester; Ether; Amide; Ketone; Carboxylic acid,2.14; 1.63; 1.52; 1.47; 1.43
+NR-AR,168,79,1.4,0.5477225575051661,5,1964,Piperidine; Piperazine; Thiophene; Tertiary amine; Indole,3.06; 2.14; 2.01; 1.99; 1.87
+NR-AR,72,15,1.8,0.8366600265340756,5,2571,Indole; Thiophene; Benzene ring; Pyridine; Piperazine,2.27; 1.80; 1.68; 1.66; 1.63
+NR-AR,7,33,3.6,1.140175425099138,5,2223,Halogen (F); Piperazine; Morpholine; Piperidine; Sulfoxide,2.88; 2.82; 2.64; 2.56; 2.21
+NR-AR,139,12,4.2,1.0954451150103321,5,2383,Halogen (Cl); Phenol; Nitro group; Piperazine; Halogen (F),2.68; 1.69; 1.63; 1.61; 1.55
+NR-AR,128,42,4.6,1.3416407864998738,5,2454,Furan; Morpholine; Thiophene; Piperazine; Ketone,2.61; 2.61; 1.73; 1.71; 1.69
+NR-AR,63,51,5.8,1.3038404810405297,5,2400,Secondary amine; Indole; Amide; Sulfonamide; Thiophene,2.14; 2.08; 2.08; 2.06; 1.85
+NR-AR,62,24,7.8,1.0954451150103324,5,1314,Nitro group; Sulfonamide; Sulfone; Thiophene; Thioether,4.88; 2.74; 2.55; 1.58; 1.45
+NR-AR,74,19,8.8,1.30384048104053,5,1438,Phenol; Sulfoxide; Halogen (I); Indole; Sulfonamide,4.46; 2.88; 2.23; 1.97; 1.96
+NR-AR,0,20,10.2,3.3466401061363023,5,1323,Aldehyde; Furan; Ester; Ether; Cyano,4.85; 2.55; 1.65; 1.32; 1.26
+NR-AR,29,39,12.2,1.4832396974191324,5,1763,Aldehyde; Thiophene; Thioether; Sulfoxide; Piperazine,3.64; 3.64; 2.66; 2.35; 2.18
+NR-AR,52,16,13.0,4.636809247747852,5,1624,Indole; Ether; Sulfoxide; Ester; Thiophene,2.20; 2.12; 1.86; 1.63; 1.58
+NR-AR,10,17,13.2,2.6832815729997477,5,1232,Tertiary amine; Thiophene; Halogen (Br); Thiol; Indole,2.65; 2.00; 1.85; 1.73; 1.69
+NR-AR,110,20,13.4,2.3021728866442674,5,1830,Indole; Primary amine; Secondary amine; Hydroxyl (aliphatic); Piperidine,2.27; 2.07; 1.96; 1.72; 1.70
+NR-AR,73,16,13.8,1.30384048104053,5,1224,Halogen (F); Thiophene; Sulfone; Sulfonamide; Pyrimidine,2.81; 2.01; 1.79; 1.78; 1.46
+NR-AR,6,18,15.2,5.540758070878027,5,1359,Indole; Piperidine; Pyridine; Piperazine; Furan,4.72; 2.52; 2.42; 2.39; 2.24
+NR-AR,24,21,15.6,2.8809720581775866,5,935,Thioether; Sulfoxide; Indole; Piperazine; Piperidine,4.18; 2.82; 1.78; 1.64; 1.47
+NR-AR,58,10,17.6,11.104053313993049,5,1601,Pyridine; Pyrimidine; Thiophene; Sulfoxide; Aromatic amine,3.29; 3.26; 2.28; 2.12; 1.89
+NR-AR,189,9,17.8,2.387467277262665,5,942,Morpholine; Secondary amine; Ester; Ketone; Pyrimidine,2.08; 2.07; 1.75; 1.72; 1.58
+NR-AR,84,15,20.0,2.7386127875258306,5,1006,Sulfonamide; Sulfone; Halogen (F); Thiophene; Aromatic amine,6.02; 5.21; 1.86; 1.57; 1.54
+NR-AR,57,9,20.2,3.03315017762062,5,926,Hydroxyl (aliphatic); Halogen (I); Indole; Sulfonamide; Pyrimidine,3.35; 2.16; 1.98; 1.65; 1.45
+NR-AR,66,13,20.8,6.180614856144977,5,1198,Thiophene; Furan; Sulfonamide; Ester; Aromatic amine,1.89; 1.63; 1.61; 1.50; 1.48
+NR-AR,184,7,22.6,2.701851217221259,5,246,Pyrimidine; Piperazine; Furan; Pyridine; Secondary amine,6.67; 4.59; 2.65; 2.32; 2.25
+NR-AR,190,13,24.6,5.5497747702046425,5,793,Secondary amine; Hydroxyl (aliphatic); Morpholine; Aldehyde; Halogen (F),3.62; 2.75; 1.78; 1.48; 1.38
+NR-AR,287,8,26.8,5.932958789676531,5,1216,Aromatic amine; Primary amine; Sulfonamide; Amide; Indole,5.27; 5.25; 2.99; 1.70; 1.64
+NR-AR,2,14,28.8,2.588435821108957,5,964,Amide; Halogen (I); Thiophene; Thioether; Hydroxyl (aliphatic),2.60; 2.08; 1.74; 1.64; 1.61
+NR-AR,23,30,29.6,6.4265076052238514,5,824,Sulfoxide; Indole; Thiophene; Piperidine; Tertiary amine,3.20; 2.22; 1.80; 1.53; 1.46
+NR-AR,25,8,30.0,6.557438524302001,5,772,Piperidine; Sulfone; Tertiary amine; Indole; Secondary amine,3.59; 3.21; 2.33; 2.05; 2.00
+NR-AR,15,26,30.0,9.924716620639604,5,718,Sulfoxide; Phenol; Halogen (I); Sulfonamide; Nitro group,3.15; 2.88; 2.09; 1.89; 1.65
+NR-AR,231,8,31.2,6.760177512462229,5,632,Pyridine; Sulfoxide; Sulfonamide; Piperazine; Halogen (F),6.10; 4.18; 1.75; 1.57; 1.56
+NR-AR,245,15,32.2,7.726577508832745,5,686,Piperazine; Pyridine; Sulfone; Thioether; Halogen (F),3.22; 2.56; 2.55; 2.51; 2.41
+NR-AR,22,13,32.4,5.770615218501404,5,392,Furan; Thioether; Thiophene; Morpholine; Sulfonamide,3.05; 2.59; 2.26; 2.22; 2.00
+NR-AR,33,17,36.0,7.681145747868608,5,695,Indole; Sulfoxide; Halogen (F); Ether; Ester,2.52; 2.17; 1.58; 1.53; 1.46
+NR-AR,175,9,37.4,7.469939758793239,5,491,Furan; Pyrimidine; Thiophene; Cyano; Thioether,3.54; 1.82; 1.81; 1.61; 1.58
+NR-AR,71,11,38.2,8.78635305459552,5,635,Cyano; Indole; Halogen (I); Sulfoxide; Thiophene,10.10; 2.23; 1.89; 1.78; 1.71
+NR-AR-LBD,70,27,0.4,0.5477225575051661,5,2801,Ester; Ether; Amide; Ketone; Carboxylic acid,2.14; 1.63; 1.52; 1.47; 1.43
+NR-AR-LBD,168,79,0.6,0.5477225575051661,5,1964,Piperidine; Piperazine; Thiophene; Tertiary amine; Indole,3.06; 2.14; 2.01; 1.99; 1.87
+NR-AR-LBD,72,15,2.0,0.0,5,2571,Indole; Thiophene; Benzene ring; Pyridine; Piperazine,2.27; 1.80; 1.68; 1.66; 1.63
+NR-AR-LBD,128,42,3.2,0.447213595499958,5,2454,Furan; Morpholine; Thiophene; Piperazine; Ketone,2.61; 2.61; 1.73; 1.71; 1.69
+NR-AR-LBD,7,33,4.4,1.140175425099138,5,2223,Halogen (F); Piperazine; Morpholine; Piperidine; Sulfoxide,2.88; 2.82; 2.64; 2.56; 2.21
+NR-AR-LBD,139,12,6.0,2.0,5,2383,Halogen (Cl); Phenol; Nitro group; Piperazine; Halogen (F),2.68; 1.69; 1.63; 1.61; 1.55
+NR-AR-LBD,62,24,7.4,1.140175425099138,5,1314,Nitro group; Sulfonamide; Sulfone; Thiophene; Thioether,4.88; 2.74; 2.55; 1.58; 1.45
+NR-AR-LBD,63,51,7.6,1.5165750888103104,5,2400,Secondary amine; Indole; Amide; Sulfonamide; Thiophene,2.14; 2.08; 2.08; 2.06; 1.85
+NR-AR-LBD,110,20,8.0,3.6742346141747673,5,1830,Indole; Primary amine; Secondary amine; Hydroxyl (aliphatic); Piperidine,2.27; 2.07; 1.96; 1.72; 1.70
+NR-AR-LBD,10,17,11.0,5.1478150704935,5,1232,Tertiary amine; Thiophene; Halogen (Br); Thiol; Indole,2.65; 2.00; 1.85; 1.73; 1.69
+NR-AR-LBD,0,20,11.4,3.361547262794322,5,1323,Aldehyde; Furan; Ester; Ether; Cyano,4.85; 2.55; 1.65; 1.32; 1.26
+NR-AR-LBD,24,21,12.4,2.6076809620810595,5,935,Thioether; Sulfoxide; Indole; Piperazine; Piperidine,4.18; 2.82; 1.78; 1.64; 1.47
+NR-AR-LBD,73,16,13.4,3.9115214431215892,5,1224,Halogen (F); Thiophene; Sulfone; Sulfonamide; Pyrimidine,2.81; 2.01; 1.79; 1.78; 1.46
+NR-AR-LBD,29,39,13.8,2.5884358211089564,5,1763,Aldehyde; Thiophene; Thioether; Sulfoxide; Piperazine,3.64; 3.64; 2.66; 2.35; 2.18
+NR-AR-LBD,52,16,14.6,4.560701700396552,5,1624,Indole; Ether; Sulfoxide; Ester; Thiophene,2.20; 2.12; 1.86; 1.63; 1.58
+NR-AR-LBD,74,19,15.6,5.683308895353129,5,1438,Phenol; Sulfoxide; Halogen (I); Indole; Sulfonamide,4.46; 2.88; 2.23; 1.97; 1.96
+NR-AR-LBD,6,18,17.0,10.559356040971437,5,1359,Indole; Piperidine; Pyridine; Piperazine; Furan,4.72; 2.52; 2.42; 2.39; 2.24
+NR-AR-LBD,84,15,17.6,4.61519230368573,5,1006,Sulfonamide; Sulfone; Halogen (F); Thiophene; Aromatic amine,6.02; 5.21; 1.86; 1.57; 1.54
+NR-AR-LBD,189,9,19.0,5.04975246918104,5,942,Morpholine; Secondary amine; Ester; Ketone; Pyrimidine,2.08; 2.07; 1.75; 1.72; 1.58
+NR-AR-LBD,22,13,19.8,2.0493901531919194,5,392,Furan; Thioether; Thiophene; Morpholine; Sulfonamide,3.05; 2.59; 2.26; 2.22; 2.00
+NR-AR-LBD,57,9,22.2,5.449770637375485,5,926,Hydroxyl (aliphatic); Halogen (I); Indole; Sulfonamide; Pyrimidine,3.35; 2.16; 1.98; 1.65; 1.45
+NR-AR-LBD,58,10,22.4,7.197221686178632,5,1601,Pyridine; Pyrimidine; Thiophene; Sulfoxide; Aromatic amine,3.29; 3.26; 2.28; 2.12; 1.89
+NR-AR-LBD,66,13,23.8,9.093954035511727,5,1198,Thiophene; Furan; Sulfonamide; Ester; Aromatic amine,1.89; 1.63; 1.61; 1.50; 1.48
+NR-AR-LBD,15,26,28.0,6.59545297913646,5,718,Sulfoxide; Phenol; Halogen (I); Sulfonamide; Nitro group,3.15; 2.88; 2.09; 1.89; 1.65
+NR-AR-LBD,231,8,28.6,7.05691150575094,5,632,Pyridine; Sulfoxide; Sulfonamide; Piperazine; Halogen (F),6.10; 4.18; 1.75; 1.57; 1.56
+NR-AR-LBD,49,17,28.6,5.128352561983235,5,513,Aldehyde; Sulfoxide; Indole; Furan; Primary amine,2.40; 2.21; 2.11; 1.91; 1.83
+NR-AR-LBD,46,13,29.2,5.403702434442518,5,637,Indole; Thiophene; Secondary amine; Primary amine; Piperidine,6.01; 2.32; 1.94; 1.80; 1.77
+NR-AR-LBD,33,17,32.0,5.612486080160912,5,695,Indole; Sulfoxide; Halogen (F); Ether; Ester,2.52; 2.17; 1.58; 1.53; 1.46
+NR-AR-LBD,245,15,33.4,7.893034904268447,5,686,Piperazine; Pyridine; Sulfone; Thioether; Halogen (F),3.22; 2.56; 2.55; 2.51; 2.41
+NR-AR-LBD,79,9,38.0,6.519202405202649,5,404,Indole; Pyrimidine; Sulfoxide; Piperidine; Thiophene,5.77; 4.43; 3.73; 3.03; 2.20
+NR-AhR,72,15,0.2,0.447213595499958,5,2571,Indole; Thiophene; Benzene ring; Pyridine; Piperazine,2.27; 1.80; 1.68; 1.66; 1.63
+NR-AhR,70,27,0.8,0.4472135954999579,5,2801,Ester; Ether; Amide; Ketone; Carboxylic acid,2.14; 1.63; 1.52; 1.47; 1.43
+NR-AhR,168,79,2.0,0.0,5,1964,Piperidine; Piperazine; Thiophene; Tertiary amine; Indole,3.06; 2.14; 2.01; 1.99; 1.87
+NR-AhR,139,12,3.4,0.8944271909999159,5,2383,Halogen (Cl); Phenol; Nitro group; Piperazine; Halogen (F),2.68; 1.69; 1.63; 1.61; 1.55
+NR-AhR,62,24,4.8,2.3874672772626644,5,1314,Nitro group; Sulfonamide; Sulfone; Thiophene; Thioether,4.88; 2.74; 2.55; 1.58; 1.45
+NR-AhR,128,42,5.4,1.140175425099138,5,2454,Furan; Morpholine; Thiophene; Piperazine; Ketone,2.61; 2.61; 1.73; 1.71; 1.69
+NR-AhR,63,51,5.6,1.140175425099138,5,2400,Secondary amine; Indole; Amide; Sulfonamide; Thiophene,2.14; 2.08; 2.08; 2.06; 1.85
+NR-AhR,7,33,9.2,3.2710854467592254,5,2223,Halogen (F); Piperazine; Morpholine; Piperidine; Sulfoxide,2.88; 2.82; 2.64; 2.56; 2.21
+NR-AhR,58,10,9.6,4.827007354458868,5,1601,Pyridine; Pyrimidine; Thiophene; Sulfoxide; Aromatic amine,3.29; 3.26; 2.28; 2.12; 1.89
+NR-AhR,287,8,10.4,2.1908902300206643,5,1216,Aromatic amine; Primary amine; Sulfonamide; Amide; Indole,5.27; 5.25; 2.99; 1.70; 1.64
+NR-AhR,73,16,10.6,3.646916505762094,5,1224,Halogen (F); Thiophene; Sulfone; Sulfonamide; Pyrimidine,2.81; 2.01; 1.79; 1.78; 1.46
+NR-AhR,6,18,11.4,3.646916505762094,5,1359,Indole; Piperidine; Pyridine; Piperazine; Furan,4.72; 2.52; 2.42; 2.39; 2.24
+NR-AhR,74,19,13.2,3.1144823004794873,5,1438,Phenol; Sulfoxide; Halogen (I); Indole; Sulfonamide,4.46; 2.88; 2.23; 1.97; 1.96
+NR-AhR,29,39,13.4,2.4083189157584592,5,1763,Aldehyde; Thiophene; Thioether; Sulfoxide; Piperazine,3.64; 3.64; 2.66; 2.35; 2.18
+NR-AhR,10,17,13.8,4.43846820423443,5,1232,Tertiary amine; Thiophene; Halogen (Br); Thiol; Indole,2.65; 2.00; 1.85; 1.73; 1.69
+NR-AhR,110,20,13.8,2.3874672772626644,5,1830,Indole; Primary amine; Secondary amine; Hydroxyl (aliphatic); Piperidine,2.27; 2.07; 1.96; 1.72; 1.70
+NR-AhR,24,21,14.6,4.669047011971501,5,935,Thioether; Sulfoxide; Indole; Piperazine; Piperidine,4.18; 2.82; 1.78; 1.64; 1.47
+NR-AhR,0,20,15.6,2.1908902300206647,5,1323,Aldehyde; Furan; Ester; Ether; Cyano,4.85; 2.55; 1.65; 1.32; 1.26
+NR-AhR,84,15,16.6,5.458937625582472,5,1006,Sulfonamide; Sulfone; Halogen (F); Thiophene; Aromatic amine,6.02; 5.21; 1.86; 1.57; 1.54
+NR-AhR,52,16,17.4,3.0495901363953806,5,1624,Indole; Ether; Sulfoxide; Ester; Thiophene,2.20; 2.12; 1.86; 1.63; 1.58
+NR-AhR,2,14,22.0,2.3452078799117144,5,964,Amide; Halogen (I); Thiophene; Thioether; Hydroxyl (aliphatic),2.60; 2.08; 1.74; 1.64; 1.61
+NR-AhR,189,9,22.4,4.560701700396552,5,942,Morpholine; Secondary amine; Ester; Ketone; Pyrimidine,2.08; 2.07; 1.75; 1.72; 1.58
+NR-AhR,57,9,22.4,3.2863353450309964,5,926,Hydroxyl (aliphatic); Halogen (I); Indole; Sulfonamide; Pyrimidine,3.35; 2.16; 1.98; 1.65; 1.45
+NR-AhR,184,7,25.2,3.03315017762062,5,246,Pyrimidine; Piperazine; Furan; Pyridine; Secondary amine,6.67; 4.59; 2.65; 2.32; 2.25
+NR-AhR,15,26,26.8,5.974947698515862,5,718,Sulfoxide; Phenol; Halogen (I); Sulfonamide; Nitro group,3.15; 2.88; 2.09; 1.89; 1.65
+NR-AhR,23,30,29.8,3.271085446759225,5,824,Sulfoxide; Indole; Thiophene; Piperidine; Tertiary amine,3.20; 2.22; 1.80; 1.53; 1.46
+NR-AhR,22,13,29.8,6.534523701081817,5,392,Furan; Thioether; Thiophene; Morpholine; Sulfonamide,3.05; 2.59; 2.26; 2.22; 2.00
+NR-AhR,25,8,30.0,4.743416490252569,5,772,Piperidine; Sulfone; Tertiary amine; Indole; Secondary amine,3.59; 3.21; 2.33; 2.05; 2.00
+NR-AhR,175,9,30.0,5.7445626465380295,5,491,Furan; Pyrimidine; Thiophene; Cyano; Thioether,3.54; 1.82; 1.81; 1.61; 1.58
+NR-AhR,190,13,30.0,8.602325267042627,5,793,Secondary amine; Hydroxyl (aliphatic); Morpholine; Aldehyde; Halogen (F),3.62; 2.75; 1.78; 1.48; 1.38
+NR-AhR,136,18,30.4,7.021395872616783,5,574,Pyrimidine; Thiophene; Indole; Thioether; Halogen (I),5.71; 3.09; 2.76; 2.14; 1.92
+NR-AhR,56,17,34.4,4.669047011971502,5,726,Thiophene; Sulfonamide; Ketone; Sulfoxide; Halogen (I),2.45; 2.31; 2.24; 2.08; 1.93
+NR-AhR,209,7,36.4,4.277849927241488,5,211,Furan; Sulfoxide; Pyridine; Sulfone; Halogen (F),18.02; 8.94; 2.31; 2.07; 1.89
+NR-AhR,245,15,36.6,7.162401831787994,5,686,Piperazine; Pyridine; Sulfone; Thioether; Halogen (F),3.22; 2.56; 2.55; 2.51; 2.41
+NR-AhR,219,16,38.6,9.710818709048173,5,597,Indole; Sulfoxide; Amide; Thiophene; Hydroxyl (aliphatic),3.35; 2.53; 2.36; 1.82; 1.66
+NR-AhR,43,9,39.2,7.19027120489902,5,271,Furan; Indole; Aldehyde; Thiophene; Piperidine,4.41; 3.69; 3.18; 2.55; 2.54
+NR-AhR,112,10,42.6,3.6469165057620936,5,278,Sulfone; Pyridine; Piperazine; Indole; Pyrimidine,6.29; 2.99; 2.92; 2.70; 2.68
+NR-Aromatase,70,27,0.2,0.447213595499958,5,2801,Ester; Ether; Amide; Ketone; Carboxylic acid,2.14; 1.63; 1.52; 1.47; 1.43
+NR-Aromatase,168,79,1.0,0.7071067811865476,5,1964,Piperidine; Piperazine; Thiophene; Tertiary amine; Indole,3.06; 2.14; 2.01; 1.99; 1.87
+NR-Aromatase,72,15,1.8,0.4472135954999579,5,2571,Indole; Thiophene; Benzene ring; Pyridine; Piperazine,2.27; 1.80; 1.68; 1.66; 1.63
+NR-Aromatase,139,12,4.0,0.9999999999999999,5,2383,Halogen (Cl); Phenol; Nitro group; Piperazine; Halogen (F),2.68; 1.69; 1.63; 1.61; 1.55
+NR-Aromatase,128,42,4.2,0.8366600265340756,5,2454,Furan; Morpholine; Thiophene; Piperazine; Ketone,2.61; 2.61; 1.73; 1.71; 1.69
+NR-Aromatase,7,33,4.6,2.073644135332772,5,2223,Halogen (F); Piperazine; Morpholine; Piperidine; Sulfoxide,2.88; 2.82; 2.64; 2.56; 2.21
+NR-Aromatase,110,20,6.6,2.1908902300206643,5,1830,Indole; Primary amine; Secondary amine; Hydroxyl (aliphatic); Piperidine,2.27; 2.07; 1.96; 1.72; 1.70
+NR-Aromatase,0,20,9.0,4.527692569068709,5,1323,Aldehyde; Furan; Ester; Ether; Cyano,4.85; 2.55; 1.65; 1.32; 1.26
+NR-Aromatase,63,51,9.2,0.8366600265340756,5,2400,Secondary amine; Indole; Amide; Sulfonamide; Thiophene,2.14; 2.08; 2.08; 2.06; 1.85
+NR-Aromatase,6,18,9.4,1.673320053068151,5,1359,Indole; Piperidine; Pyridine; Piperazine; Furan,4.72; 2.52; 2.42; 2.39; 2.24
+NR-Aromatase,52,16,9.8,2.6832815729997477,5,1624,Indole; Ether; Sulfoxide; Ester; Thiophene,2.20; 2.12; 1.86; 1.63; 1.58
+NR-Aromatase,29,39,11.0,1.8708286933869707,5,1763,Aldehyde; Thiophene; Thioether; Sulfoxide; Piperazine,3.64; 3.64; 2.66; 2.35; 2.18
+NR-Aromatase,62,24,11.6,3.646916505762094,5,1314,Nitro group; Sulfonamide; Sulfone; Thiophene; Thioether,4.88; 2.74; 2.55; 1.58; 1.45
+NR-Aromatase,287,8,14.2,4.658325879540847,5,1216,Aromatic amine; Primary amine; Sulfonamide; Amide; Indole,5.27; 5.25; 2.99; 1.70; 1.64
+NR-Aromatase,10,17,16.0,1.224744871391589,5,1232,Tertiary amine; Thiophene; Halogen (Br); Thiol; Indole,2.65; 2.00; 1.85; 1.73; 1.69
+NR-Aromatase,24,21,16.4,4.219004621945797,5,935,Thioether; Sulfoxide; Indole; Piperazine; Piperidine,4.18; 2.82; 1.78; 1.64; 1.47
+NR-Aromatase,58,10,16.6,7.3688533707762165,5,1601,Pyridine; Pyrimidine; Thiophene; Sulfoxide; Aromatic amine,3.29; 3.26; 2.28; 2.12; 1.89
+NR-Aromatase,74,19,17.2,3.033150177620621,5,1438,Phenol; Sulfoxide; Halogen (I); Indole; Sulfonamide,4.46; 2.88; 2.23; 1.97; 1.96
+NR-Aromatase,84,15,18.0,4.183300132670378,5,1006,Sulfonamide; Sulfone; Halogen (F); Thiophene; Aromatic amine,6.02; 5.21; 1.86; 1.57; 1.54
+NR-Aromatase,73,16,18.8,5.215361924162119,5,1224,Halogen (F); Thiophene; Sulfone; Sulfonamide; Pyrimidine,2.81; 2.01; 1.79; 1.78; 1.46
+NR-Aromatase,57,9,19.0,4.301162633521314,5,926,Hydroxyl (aliphatic); Halogen (I); Indole; Sulfonamide; Pyrimidine,3.35; 2.16; 1.98; 1.65; 1.45
+NR-Aromatase,33,17,23.0,3.24037034920393,5,695,Indole; Sulfoxide; Halogen (F); Ether; Ester,2.52; 2.17; 1.58; 1.53; 1.46
+NR-Aromatase,189,9,23.2,7.5960516059331775,5,942,Morpholine; Secondary amine; Ester; Ketone; Pyrimidine,2.08; 2.07; 1.75; 1.72; 1.58
+NR-Aromatase,66,13,23.4,5.412947441089743,5,1198,Thiophene; Furan; Sulfonamide; Ester; Aromatic amine,1.89; 1.63; 1.61; 1.50; 1.48
+NR-Aromatase,190,13,25.8,3.5637059362410928,5,793,Secondary amine; Hydroxyl (aliphatic); Morpholine; Aldehyde; Halogen (F),3.62; 2.75; 1.78; 1.48; 1.38
+NR-Aromatase,23,30,28.6,4.449719092257398,5,824,Sulfoxide; Indole; Thiophene; Piperidine; Tertiary amine,3.20; 2.22; 1.80; 1.53; 1.46
+NR-Aromatase,15,26,29.8,5.890670590009257,5,718,Sulfoxide; Phenol; Halogen (I); Sulfonamide; Nitro group,3.15; 2.88; 2.09; 1.89; 1.65
+NR-Aromatase,209,7,32.4,8.648699324175862,5,211,Furan; Sulfoxide; Pyridine; Sulfone; Halogen (F),18.02; 8.94; 2.31; 2.07; 1.89
+NR-Aromatase,22,13,32.6,9.633275663033837,5,392,Furan; Thioether; Thiophene; Morpholine; Sulfonamide,3.05; 2.59; 2.26; 2.22; 2.00
+NR-Aromatase,93,16,33.0,6.782329983125269,5,670,Aldehyde; Pyridine; Sulfoxide; Indole; Piperazine,2.39; 1.75; 1.69; 1.62; 1.55
+NR-Aromatase,160,11,34.6,5.856620185738529,5,486,Halogen (Br); Ester; Piperidine; Hydroxyl (aliphatic); Primary amine,2.68; 1.87; 1.69; 1.65; 1.62
+NR-Aromatase,46,13,34.8,7.918333157931663,5,637,Indole; Thiophene; Secondary amine; Primary amine; Piperidine,6.01; 2.32; 1.94; 1.80; 1.77
+NR-Aromatase,296,10,36.0,7.810249675906653,5,432,Indole; Piperazine; Thiophene; Piperidine; Hydroxyl (aliphatic),4.24; 2.40; 2.05; 1.99; 1.67
+NR-Aromatase,71,11,37.4,7.92464510246358,5,635,Cyano; Indole; Halogen (I); Sulfoxide; Thiophene,10.10; 2.23; 1.89; 1.78; 1.71
+NR-ER,70,27,0.0,0.0,5,2801,Ester; Ether; Amide; Ketone; Carboxylic acid,2.14; 1.63; 1.52; 1.47; 1.43
+NR-ER,168,79,1.0,0.0,5,1964,Piperidine; Piperazine; Thiophene; Tertiary amine; Indole,3.06; 2.14; 2.01; 1.99; 1.87
+NR-ER,72,15,2.0,0.0,5,2571,Indole; Thiophene; Benzene ring; Pyridine; Piperazine,2.27; 1.80; 1.68; 1.66; 1.63
+NR-ER,7,33,3.4,0.5477225575051662,5,2223,Halogen (F); Piperazine; Morpholine; Piperidine; Sulfoxide,2.88; 2.82; 2.64; 2.56; 2.21
+NR-ER,128,42,4.0,1.0,5,2454,Furan; Morpholine; Thiophene; Piperazine; Ketone,2.61; 2.61; 1.73; 1.71; 1.69
+NR-ER,139,12,5.8,1.6431676725154984,5,2383,Halogen (Cl); Phenol; Nitro group; Piperazine; Halogen (F),2.68; 1.69; 1.63; 1.61; 1.55
+NR-ER,62,24,6.0,1.224744871391589,5,1314,Nitro group; Sulfonamide; Sulfone; Thiophene; Thioether,4.88; 2.74; 2.55; 1.58; 1.45
+NR-ER,63,51,7.4,1.1401754250991383,5,2400,Secondary amine; Indole; Amide; Sulfonamide; Thiophene,2.14; 2.08; 2.08; 2.06; 1.85
+NR-ER,52,16,9.2,2.3874672772626644,5,1624,Indole; Ether; Sulfoxide; Ester; Thiophene,2.20; 2.12; 1.86; 1.63; 1.58
+NR-ER,74,19,9.6,1.1401754250991376,5,1438,Phenol; Sulfoxide; Halogen (I); Indole; Sulfonamide,4.46; 2.88; 2.23; 1.97; 1.96
+NR-ER,29,39,10.2,1.7888543819998317,5,1763,Aldehyde; Thiophene; Thioether; Sulfoxide; Piperazine,3.64; 3.64; 2.66; 2.35; 2.18
+NR-ER,0,20,11.6,1.51657508881031,5,1323,Aldehyde; Furan; Ester; Ether; Cyano,4.85; 2.55; 1.65; 1.32; 1.26
+NR-ER,110,20,12.2,6.978538528947161,5,1830,Indole; Primary amine; Secondary amine; Hydroxyl (aliphatic); Piperidine,2.27; 2.07; 1.96; 1.72; 1.70
+NR-ER,10,17,13.0,3.082207001484488,5,1232,Tertiary amine; Thiophene; Halogen (Br); Thiol; Indole,2.65; 2.00; 1.85; 1.73; 1.69
+NR-ER,24,21,14.0,2.7386127875258306,5,935,Thioether; Sulfoxide; Indole; Piperazine; Piperidine,4.18; 2.82; 1.78; 1.64; 1.47
+NR-ER,73,16,16.4,3.8470768123342687,5,1224,Halogen (F); Thiophene; Sulfone; Sulfonamide; Pyrimidine,2.81; 2.01; 1.79; 1.78; 1.46
+NR-ER,84,15,17.2,5.263078946776307,5,1006,Sulfonamide; Sulfone; Halogen (F); Thiophene; Aromatic amine,6.02; 5.21; 1.86; 1.57; 1.54
+NR-ER,58,10,20.0,4.527692569068709,5,1601,Pyridine; Pyrimidine; Thiophene; Sulfoxide; Aromatic amine,3.29; 3.26; 2.28; 2.12; 1.89
+NR-ER,252,4,20.2,4.604345773288535,5,465,Thiophene; Ester; Morpholine; Ether; Amide,2.55; 2.33; 1.87; 1.82; 1.47
+NR-ER,6,18,20.2,6.572670690061994,5,1359,Indole; Piperidine; Pyridine; Piperazine; Furan,4.72; 2.52; 2.42; 2.39; 2.24
+NR-ER,189,9,21.6,4.560701700396551,5,942,Morpholine; Secondary amine; Ester; Ketone; Pyrimidine,2.08; 2.07; 1.75; 1.72; 1.58
+NR-ER,23,30,23.0,5.567764362830022,5,824,Sulfoxide; Indole; Thiophene; Piperidine; Tertiary amine,3.20; 2.22; 1.80; 1.53; 1.46
+NR-ER,287,8,23.2,5.357238094391549,5,1216,Aromatic amine; Primary amine; Sulfonamide; Amide; Indole,5.27; 5.25; 2.99; 1.70; 1.64
+NR-ER,57,9,25.8,6.457553716385177,5,926,Hydroxyl (aliphatic); Halogen (I); Indole; Sulfonamide; Pyrimidine,3.35; 2.16; 1.98; 1.65; 1.45
+NR-ER,22,13,29.0,11.832159566199232,5,392,Furan; Thioether; Thiophene; Morpholine; Sulfonamide,3.05; 2.59; 2.26; 2.22; 2.00
+NR-ER,231,8,29.6,9.889388252060893,5,632,Pyridine; Sulfoxide; Sulfonamide; Piperazine; Halogen (F),6.10; 4.18; 1.75; 1.57; 1.56
+NR-ER,49,17,30.8,7.5960516059331775,5,513,Aldehyde; Sulfoxide; Indole; Furan; Primary amine,2.40; 2.21; 2.11; 1.91; 1.83
+NR-ER,46,13,31.0,4.301162633521313,5,637,Indole; Thiophene; Secondary amine; Primary amine; Piperidine,6.01; 2.32; 1.94; 1.80; 1.77
+NR-ER,2,14,31.2,7.5960516059331775,5,964,Amide; Halogen (I); Thiophene; Thioether; Hydroxyl (aliphatic),2.60; 2.08; 1.74; 1.64; 1.61
+NR-ER,15,26,31.6,6.148170459575759,5,718,Sulfoxide; Phenol; Halogen (I); Sulfonamide; Nitro group,3.15; 2.88; 2.09; 1.89; 1.65
+NR-ER,190,13,32.4,11.844830095868831,5,793,Secondary amine; Hydroxyl (aliphatic); Morpholine; Aldehyde; Halogen (F),3.62; 2.75; 1.78; 1.48; 1.38
+NR-ER,219,16,34.4,5.9413803110051795,5,597,Indole; Sulfoxide; Amide; Thiophene; Hydroxyl (aliphatic),3.35; 2.53; 2.36; 1.82; 1.66
+NR-ER,221,6,34.8,11.945710527214361,5,416,Halogen (Br); Sulfonamide; Thiophene; Indole; Sulfone,15.32; 4.88; 1.90; 1.60; 1.40
+NR-ER,245,15,36.2,8.105553651663778,5,686,Piperazine; Pyridine; Sulfone; Thioether; Halogen (F),3.22; 2.56; 2.55; 2.51; 2.41
+NR-ER,123,11,40.0,5.5226805085936315,5,387,Sulfone; Piperazine; Sulfonamide; Thiophene; Tertiary amine,5.27; 4.55; 4.23; 3.06; 2.43
+NR-ER,160,11,40.4,5.319774431308155,5,486,Halogen (Br); Ester; Piperidine; Hydroxyl (aliphatic); Primary amine,2.68; 1.87; 1.69; 1.65; 1.62
+NR-ER-LBD,70,27,0.2,0.447213595499958,5,2801,Ester; Ether; Amide; Ketone; Carboxylic acid,2.14; 1.63; 1.52; 1.47; 1.43
+NR-ER-LBD,168,79,0.8,0.4472135954999579,5,1964,Piperidine; Piperazine; Thiophene; Tertiary amine; Indole,3.06; 2.14; 2.01; 1.99; 1.87
+NR-ER-LBD,72,15,2.0,0.0,5,2571,Indole; Thiophene; Benzene ring; Pyridine; Piperazine,2.27; 1.80; 1.68; 1.66; 1.63
+NR-ER-LBD,128,42,3.8,0.8366600265340756,5,2454,Furan; Morpholine; Thiophene; Piperazine; Ketone,2.61; 2.61; 1.73; 1.71; 1.69
+NR-ER-LBD,139,12,4.8,0.44721359549995787,5,2383,Halogen (Cl); Phenol; Nitro group; Piperazine; Halogen (F),2.68; 1.69; 1.63; 1.61; 1.55
+NR-ER-LBD,7,33,5.0,1.8708286933869707,5,2223,Halogen (F); Piperazine; Morpholine; Piperidine; Sulfoxide,2.88; 2.82; 2.64; 2.56; 2.21
+NR-ER-LBD,0,20,7.0,2.6457513110645907,5,1323,Aldehyde; Furan; Ester; Ether; Cyano,4.85; 2.55; 1.65; 1.32; 1.26
+NR-ER-LBD,74,19,7.6,2.3021728866442674,5,1438,Phenol; Sulfoxide; Halogen (I); Indole; Sulfonamide,4.46; 2.88; 2.23; 1.97; 1.96
+NR-ER-LBD,63,51,7.8,1.3038404810405297,5,2400,Secondary amine; Indole; Amide; Sulfonamide; Thiophene,2.14; 2.08; 2.08; 2.06; 1.85
+NR-ER-LBD,62,24,7.8,3.271085446759225,5,1314,Nitro group; Sulfonamide; Sulfone; Thiophene; Thioether,4.88; 2.74; 2.55; 1.58; 1.45
+NR-ER-LBD,110,20,11.8,2.2803508501982757,5,1830,Indole; Primary amine; Secondary amine; Hydroxyl (aliphatic); Piperidine,2.27; 2.07; 1.96; 1.72; 1.70
+NR-ER-LBD,52,16,12.2,2.16794833886788,5,1624,Indole; Ether; Sulfoxide; Ester; Thiophene,2.20; 2.12; 1.86; 1.63; 1.58
+NR-ER-LBD,6,18,12.4,4.33589667773576,5,1359,Indole; Piperidine; Pyridine; Piperazine; Furan,4.72; 2.52; 2.42; 2.39; 2.24
+NR-ER-LBD,29,39,13.0,2.7386127875258306,5,1763,Aldehyde; Thiophene; Thioether; Sulfoxide; Piperazine,3.64; 3.64; 2.66; 2.35; 2.18
+NR-ER-LBD,10,17,13.4,1.6733200530681511,5,1232,Tertiary amine; Thiophene; Halogen (Br); Thiol; Indole,2.65; 2.00; 1.85; 1.73; 1.69
+NR-ER-LBD,58,10,16.0,6.819090848492928,5,1601,Pyridine; Pyrimidine; Thiophene; Sulfoxide; Aromatic amine,3.29; 3.26; 2.28; 2.12; 1.89
+NR-ER-LBD,24,21,16.6,5.683308895353129,5,935,Thioether; Sulfoxide; Indole; Piperazine; Piperidine,4.18; 2.82; 1.78; 1.64; 1.47
+NR-ER-LBD,73,16,18.0,1.224744871391589,5,1224,Halogen (F); Thiophene; Sulfone; Sulfonamide; Pyrimidine,2.81; 2.01; 1.79; 1.78; 1.46
+NR-ER-LBD,189,9,18.0,3.082207001484488,5,942,Morpholine; Secondary amine; Ester; Ketone; Pyrimidine,2.08; 2.07; 1.75; 1.72; 1.58
+NR-ER-LBD,57,9,19.0,5.0990195135927845,5,926,Hydroxyl (aliphatic); Halogen (I); Indole; Sulfonamide; Pyrimidine,3.35; 2.16; 1.98; 1.65; 1.45
+NR-ER-LBD,287,8,21.0,4.358898943540674,5,1216,Aromatic amine; Primary amine; Sulfonamide; Amide; Indole,5.27; 5.25; 2.99; 1.70; 1.64
+NR-ER-LBD,46,13,21.6,3.3615472627943226,5,637,Indole; Thiophene; Secondary amine; Primary amine; Piperidine,6.01; 2.32; 1.94; 1.80; 1.77
+NR-ER-LBD,84,15,23.4,5.683308895353129,5,1006,Sulfonamide; Sulfone; Halogen (F); Thiophene; Aromatic amine,6.02; 5.21; 1.86; 1.57; 1.54
+NR-ER-LBD,23,30,24.4,2.7018512172212596,5,824,Sulfoxide; Indole; Thiophene; Piperidine; Tertiary amine,3.20; 2.22; 1.80; 1.53; 1.46
+NR-ER-LBD,66,13,27.4,10.358571330062848,5,1198,Thiophene; Furan; Sulfonamide; Ester; Aromatic amine,1.89; 1.63; 1.61; 1.50; 1.48
+NR-ER-LBD,2,14,27.4,5.89915248150105,5,964,Amide; Halogen (I); Thiophene; Thioether; Hydroxyl (aliphatic),2.60; 2.08; 1.74; 1.64; 1.61
+NR-ER-LBD,15,26,28.8,3.768288736283355,5,718,Sulfoxide; Phenol; Halogen (I); Sulfonamide; Nitro group,3.15; 2.88; 2.09; 1.89; 1.65
+NR-ER-LBD,136,18,32.4,10.16366075781753,5,574,Pyrimidine; Thiophene; Indole; Thioether; Halogen (I),5.71; 3.09; 2.76; 2.14; 1.92
+NR-ER-LBD,231,8,34.6,7.893034904268446,5,632,Pyridine; Sulfoxide; Sulfonamide; Piperazine; Halogen (F),6.10; 4.18; 1.75; 1.57; 1.56
+NR-ER-LBD,22,13,36.0,6.2048368229954285,5,392,Furan; Thioether; Thiophene; Morpholine; Sulfonamide,3.05; 2.59; 2.26; 2.22; 2.00
+NR-ER-LBD,56,17,36.6,10.285912696499032,5,726,Thiophene; Sulfonamide; Ketone; Sulfoxide; Halogen (I),2.45; 2.31; 2.24; 2.08; 1.93
+NR-ER-LBD,33,17,38.0,6.2048368229954285,5,695,Indole; Sulfoxide; Halogen (F); Ether; Ester,2.52; 2.17; 1.58; 1.53; 1.46
+NR-ER-LBD,31,20,39.4,7.231873892705818,5,368,Piperazine; Ketone; Indole; Sulfone; Hydroxyl (aliphatic),2.70; 2.34; 2.04; 1.98; 1.91
+NR-ER-LBD,245,15,40.4,3.646916505762094,5,686,Piperazine; Pyridine; Sulfone; Thioether; Halogen (F),3.22; 2.56; 2.55; 2.51; 2.41
+NR-ER-LBD,145,17,41.0,7.745966692414834,5,537,Sulfoxide; Sulfonamide; Pyridine; Halogen (F); Sulfone,2.81; 2.79; 2.27; 2.12; 1.90
+NR-ER-LBD,49,17,41.4,5.412947441089743,5,513,Aldehyde; Sulfoxide; Indole; Furan; Primary amine,2.40; 2.21; 2.11; 1.91; 1.83
+NR-ER-LBD,296,10,43.4,4.722287581247038,5,432,Indole; Piperazine; Thiophene; Piperidine; Hydroxyl (aliphatic),4.24; 2.40; 2.05; 1.99; 1.67
+NR-PPAR-gamma,70,27,0.0,0.0,5,2801,Ester; Ether; Amide; Ketone; Carboxylic acid,2.14; 1.63; 1.52; 1.47; 1.43
+NR-PPAR-gamma,168,79,1.0,0.0,5,1964,Piperidine; Piperazine; Thiophene; Tertiary amine; Indole,3.06; 2.14; 2.01; 1.99; 1.87
+NR-PPAR-gamma,72,15,2.4,0.5477225575051662,5,2571,Indole; Thiophene; Benzene ring; Pyridine; Piperazine,2.27; 1.80; 1.68; 1.66; 1.63
+NR-PPAR-gamma,128,42,4.4,0.8944271909999159,5,2454,Furan; Morpholine; Thiophene; Piperazine; Ketone,2.61; 2.61; 1.73; 1.71; 1.69
+NR-PPAR-gamma,139,12,4.8,2.7748873851023212,5,2383,Halogen (Cl); Phenol; Nitro group; Piperazine; Halogen (F),2.68; 1.69; 1.63; 1.61; 1.55
+NR-PPAR-gamma,0,20,5.6,1.6733200530681511,5,1323,Aldehyde; Furan; Ester; Ether; Cyano,4.85; 2.55; 1.65; 1.32; 1.26
+NR-PPAR-gamma,7,33,7.2,1.0954451150103321,5,2223,Halogen (F); Piperazine; Morpholine; Piperidine; Sulfoxide,2.88; 2.82; 2.64; 2.56; 2.21
+NR-PPAR-gamma,63,51,7.6,2.701851217221259,5,2400,Secondary amine; Indole; Amide; Sulfonamide; Thiophene,2.14; 2.08; 2.08; 2.06; 1.85
+NR-PPAR-gamma,62,24,7.8,4.54972526643093,5,1314,Nitro group; Sulfonamide; Sulfone; Thiophene; Thioether,4.88; 2.74; 2.55; 1.58; 1.45
+NR-PPAR-gamma,52,16,9.8,2.8635642126552705,5,1624,Indole; Ether; Sulfoxide; Ester; Thiophene,2.20; 2.12; 1.86; 1.63; 1.58
+NR-PPAR-gamma,74,19,11.2,4.147288270665544,5,1438,Phenol; Sulfoxide; Halogen (I); Indole; Sulfonamide,4.46; 2.88; 2.23; 1.97; 1.96
+NR-PPAR-gamma,10,17,11.4,2.073644135332772,5,1232,Tertiary amine; Thiophene; Halogen (Br); Thiol; Indole,2.65; 2.00; 1.85; 1.73; 1.69
+NR-PPAR-gamma,110,20,12.2,2.6832815729997477,5,1830,Indole; Primary amine; Secondary amine; Hydroxyl (aliphatic); Piperidine,2.27; 2.07; 1.96; 1.72; 1.70
+NR-PPAR-gamma,58,10,12.2,6.3796551630946325,5,1601,Pyridine; Pyrimidine; Thiophene; Sulfoxide; Aromatic amine,3.29; 3.26; 2.28; 2.12; 1.89
+NR-PPAR-gamma,287,8,13.0,5.0990195135927845,5,1216,Aromatic amine; Primary amine; Sulfonamide; Amide; Indole,5.27; 5.25; 2.99; 1.70; 1.64
+NR-PPAR-gamma,24,21,14.0,3.1622776601683795,5,935,Thioether; Sulfoxide; Indole; Piperazine; Piperidine,4.18; 2.82; 1.78; 1.64; 1.47
+NR-PPAR-gamma,6,18,15.2,2.16794833886788,5,1359,Indole; Piperidine; Pyridine; Piperazine; Furan,4.72; 2.52; 2.42; 2.39; 2.24
+NR-PPAR-gamma,29,39,15.8,1.6431676725154982,5,1763,Aldehyde; Thiophene; Thioether; Sulfoxide; Piperazine,3.64; 3.64; 2.66; 2.35; 2.18
+NR-PPAR-gamma,73,16,18.0,2.5495097567963922,5,1224,Halogen (F); Thiophene; Sulfone; Sulfonamide; Pyrimidine,2.81; 2.01; 1.79; 1.78; 1.46
+NR-PPAR-gamma,57,9,20.2,3.1144823004794873,5,926,Hydroxyl (aliphatic); Halogen (I); Indole; Sulfonamide; Pyrimidine,3.35; 2.16; 1.98; 1.65; 1.45
+NR-PPAR-gamma,22,13,21.6,1.816590212458495,5,392,Furan; Thioether; Thiophene; Morpholine; Sulfonamide,3.05; 2.59; 2.26; 2.22; 2.00
+NR-PPAR-gamma,189,9,22.0,6.244997998398398,5,942,Morpholine; Secondary amine; Ester; Ketone; Pyrimidine,2.08; 2.07; 1.75; 1.72; 1.58
+NR-PPAR-gamma,66,13,23.8,6.906518659932803,5,1198,Thiophene; Furan; Sulfonamide; Ester; Aromatic amine,1.89; 1.63; 1.61; 1.50; 1.48
+NR-PPAR-gamma,84,15,26.6,5.128352561983234,5,1006,Sulfonamide; Sulfone; Halogen (F); Thiophene; Aromatic amine,6.02; 5.21; 1.86; 1.57; 1.54
+NR-PPAR-gamma,46,13,26.8,6.1400325732035,5,637,Indole; Thiophene; Secondary amine; Primary amine; Piperidine,6.01; 2.32; 1.94; 1.80; 1.77
+NR-PPAR-gamma,2,14,26.8,8.5848704125339,5,964,Amide; Halogen (I); Thiophene; Thioether; Hydroxyl (aliphatic),2.60; 2.08; 1.74; 1.64; 1.61
+NR-PPAR-gamma,23,30,28.2,2.7748873851023217,5,824,Sulfoxide; Indole; Thiophene; Piperidine; Tertiary amine,3.20; 2.22; 1.80; 1.53; 1.46
+NR-PPAR-gamma,15,26,29.6,4.9295030175464944,5,718,Sulfoxide; Phenol; Halogen (I); Sulfonamide; Nitro group,3.15; 2.88; 2.09; 1.89; 1.65
+NR-PPAR-gamma,175,9,30.8,5.630275304103699,5,491,Furan; Pyrimidine; Thiophene; Cyano; Thioether,3.54; 1.82; 1.81; 1.61; 1.58
+NR-PPAR-gamma,49,17,31.2,5.495452665613635,5,513,Aldehyde; Sulfoxide; Indole; Furan; Primary amine,2.40; 2.21; 2.11; 1.91; 1.83
+NR-PPAR-gamma,190,13,34.0,4.301162633521313,5,793,Secondary amine; Hydroxyl (aliphatic); Morpholine; Aldehyde; Halogen (F),3.62; 2.75; 1.78; 1.48; 1.38
+NR-PPAR-gamma,59,8,35.0,7.582875444051551,5,320,Halogen (I); Furan; Aldehyde; Thiophene; Amide,20.03; 2.72; 2.50; 2.47; 1.93
+NR-PPAR-gamma,33,17,37.0,8.396427811873332,5,695,Indole; Sulfoxide; Halogen (F); Ether; Ester,2.52; 2.17; 1.58; 1.53; 1.46
+NR-PPAR-gamma,71,11,37.6,6.024948132556828,5,635,Cyano; Indole; Halogen (I); Sulfoxide; Thiophene,10.10; 2.23; 1.89; 1.78; 1.71
+NR-PPAR-gamma,245,15,38.4,6.268971207462992,5,686,Piperazine; Pyridine; Sulfone; Thioether; Halogen (F),3.22; 2.56; 2.55; 2.51; 2.41
+NR-PPAR-gamma,160,11,41.0,10.464224768228174,5,486,Halogen (Br); Ester; Piperidine; Hydroxyl (aliphatic); Primary amine,2.68; 1.87; 1.69; 1.65; 1.62
+NR-PPAR-gamma,136,18,42.4,2.5099800796022276,5,574,Pyrimidine; Thiophene; Indole; Thioether; Halogen (I),5.71; 3.09; 2.76; 2.14; 1.92
+SR-ARE,70,27,0.0,0.0,5,2801,Ester; Ether; Amide; Ketone; Carboxylic acid,2.14; 1.63; 1.52; 1.47; 1.43
+SR-ARE,168,79,1.0,0.0,5,1964,Piperidine; Piperazine; Thiophene; Tertiary amine; Indole,3.06; 2.14; 2.01; 1.99; 1.87
+SR-ARE,128,42,2.8,0.8366600265340756,5,2454,Furan; Morpholine; Thiophene; Piperazine; Ketone,2.61; 2.61; 1.73; 1.71; 1.69
+SR-ARE,72,15,3.2,1.3038404810405297,5,2571,Indole; Thiophene; Benzene ring; Pyridine; Piperazine,2.27; 1.80; 1.68; 1.66; 1.63
+SR-ARE,139,12,3.8,1.3038404810405297,5,2383,Halogen (Cl); Phenol; Nitro group; Piperazine; Halogen (F),2.68; 1.69; 1.63; 1.61; 1.55
+SR-ARE,7,33,5.8,1.4832396974191326,5,2223,Halogen (F); Piperazine; Morpholine; Piperidine; Sulfoxide,2.88; 2.82; 2.64; 2.56; 2.21
+SR-ARE,62,24,6.4,1.816590212458495,5,1314,Nitro group; Sulfonamide; Sulfone; Thiophene; Thioether,4.88; 2.74; 2.55; 1.58; 1.45
+SR-ARE,0,20,7.4,1.1401754250991383,5,1323,Aldehyde; Furan; Ester; Ether; Cyano,4.85; 2.55; 1.65; 1.32; 1.26
+SR-ARE,63,51,7.4,1.140175425099138,5,2400,Secondary amine; Indole; Amide; Sulfonamide; Thiophene,2.14; 2.08; 2.08; 2.06; 1.85
+SR-ARE,110,20,8.8,4.207136793592526,5,1830,Indole; Primary amine; Secondary amine; Hydroxyl (aliphatic); Piperidine,2.27; 2.07; 1.96; 1.72; 1.70
+SR-ARE,29,39,10.6,1.140175425099138,5,1763,Aldehyde; Thiophene; Thioether; Sulfoxide; Piperazine,3.64; 3.64; 2.66; 2.35; 2.18
+SR-ARE,10,17,12.0,1.8708286933869709,5,1232,Tertiary amine; Thiophene; Halogen (Br); Thiol; Indole,2.65; 2.00; 1.85; 1.73; 1.69
+SR-ARE,52,16,13.2,2.04939015319192,5,1624,Indole; Ether; Sulfoxide; Ester; Thiophene,2.20; 2.12; 1.86; 1.63; 1.58
+SR-ARE,74,19,13.2,2.588435821108957,5,1438,Phenol; Sulfoxide; Halogen (I); Indole; Sulfonamide,4.46; 2.88; 2.23; 1.97; 1.96
+SR-ARE,24,21,13.8,3.1144823004794873,5,935,Thioether; Sulfoxide; Indole; Piperazine; Piperidine,4.18; 2.82; 1.78; 1.64; 1.47
+SR-ARE,6,18,16.0,4.06201920231798,5,1359,Indole; Piperidine; Pyridine; Piperazine; Furan,4.72; 2.52; 2.42; 2.39; 2.24
+SR-ARE,287,8,16.4,2.701851217221259,5,1216,Aromatic amine; Primary amine; Sulfonamide; Amide; Indole,5.27; 5.25; 2.99; 1.70; 1.64
+SR-ARE,73,16,17.4,2.5099800796022267,5,1224,Halogen (F); Thiophene; Sulfone; Sulfonamide; Pyrimidine,2.81; 2.01; 1.79; 1.78; 1.46
+SR-ARE,84,15,19.2,3.1144823004794877,5,1006,Sulfonamide; Sulfone; Halogen (F); Thiophene; Aromatic amine,6.02; 5.21; 1.86; 1.57; 1.54
+SR-ARE,58,10,19.2,9.679876032264051,5,1601,Pyridine; Pyrimidine; Thiophene; Sulfoxide; Aromatic amine,3.29; 3.26; 2.28; 2.12; 1.89
+SR-ARE,22,13,22.2,3.0331501776206204,5,392,Furan; Thioether; Thiophene; Morpholine; Sulfonamide,3.05; 2.59; 2.26; 2.22; 2.00
+SR-ARE,66,13,22.8,2.8635642126552705,5,1198,Thiophene; Furan; Sulfonamide; Ester; Aromatic amine,1.89; 1.63; 1.61; 1.50; 1.48
+SR-ARE,189,9,23.6,6.3874877690685254,5,942,Morpholine; Secondary amine; Ester; Ketone; Pyrimidine,2.08; 2.07; 1.75; 1.72; 1.58
+SR-ARE,23,30,23.8,2.1679483388678804,5,824,Sulfoxide; Indole; Thiophene; Piperidine; Tertiary amine,3.20; 2.22; 1.80; 1.53; 1.46
+SR-ARE,2,14,26.8,6.685805860178712,5,964,Amide; Halogen (I); Thiophene; Thioether; Hydroxyl (aliphatic),2.60; 2.08; 1.74; 1.64; 1.61
+SR-ARE,57,9,27.8,3.420526275297414,5,926,Hydroxyl (aliphatic); Halogen (I); Indole; Sulfonamide; Pyrimidine,3.35; 2.16; 1.98; 1.65; 1.45
+SR-ARE,33,17,27.8,6.942621983083913,5,695,Indole; Sulfoxide; Halogen (F); Ether; Ester,2.52; 2.17; 1.58; 1.53; 1.46
+SR-ARE,15,26,29.2,5.263078946776306,5,718,Sulfoxide; Phenol; Halogen (I); Sulfonamide; Nitro group,3.15; 2.88; 2.09; 1.89; 1.65
+SR-ARE,160,11,29.2,3.8340579025361627,5,486,Halogen (Br); Ester; Piperidine; Hydroxyl (aliphatic); Primary amine,2.68; 1.87; 1.69; 1.65; 1.62
+SR-ARE,71,11,29.8,5.718391382198319,5,635,Cyano; Indole; Halogen (I); Sulfoxide; Thiophene,10.10; 2.23; 1.89; 1.78; 1.71
+SR-ARE,175,9,33.4,8.384509526501834,5,491,Furan; Pyrimidine; Thiophene; Cyano; Thioether,3.54; 1.82; 1.81; 1.61; 1.58
+SR-ARE,245,15,37.6,2.302172886644269,5,686,Piperazine; Pyridine; Sulfone; Thioether; Halogen (F),3.22; 2.56; 2.55; 2.51; 2.41
+SR-ARE,221,6,38.8,8.228000972289685,5,416,Halogen (Br); Sulfonamide; Thiophene; Indole; Sulfone,15.32; 4.88; 1.90; 1.60; 1.40
+SR-ARE,56,17,38.8,6.685805860178711,5,726,Thiophene; Sulfonamide; Ketone; Sulfoxide; Halogen (I),2.45; 2.31; 2.24; 2.08; 1.93
+SR-ATAD5,70,27,0.0,0.0,5,2801,Ester; Ether; Amide; Ketone; Carboxylic acid,2.14; 1.63; 1.52; 1.47; 1.43
+SR-ATAD5,168,79,1.2,0.4472135954999579,5,1964,Piperidine; Piperazine; Thiophene; Tertiary amine; Indole,3.06; 2.14; 2.01; 1.99; 1.87
+SR-ATAD5,72,15,1.8,0.4472135954999579,5,2571,Indole; Thiophene; Benzene ring; Pyridine; Piperazine,2.27; 1.80; 1.68; 1.66; 1.63
+SR-ATAD5,139,12,4.8,1.3038404810405297,5,2383,Halogen (Cl); Phenol; Nitro group; Piperazine; Halogen (F),2.68; 1.69; 1.63; 1.61; 1.55
+SR-ATAD5,128,42,5.0,2.1213203435596424,5,2454,Furan; Morpholine; Thiophene; Piperazine; Ketone,2.61; 2.61; 1.73; 1.71; 1.69
+SR-ATAD5,7,33,5.4,2.302172886644268,5,2223,Halogen (F); Piperazine; Morpholine; Piperidine; Sulfoxide,2.88; 2.82; 2.64; 2.56; 2.21
+SR-ATAD5,62,24,5.4,3.2093613071762426,5,1314,Nitro group; Sulfonamide; Sulfone; Thiophene; Thioether,4.88; 2.74; 2.55; 1.58; 1.45
+SR-ATAD5,10,17,7.2,1.9235384061671346,5,1232,Tertiary amine; Thiophene; Halogen (Br); Thiol; Indole,2.65; 2.00; 1.85; 1.73; 1.69
+SR-ATAD5,63,51,7.4,1.5165750888103104,5,2400,Secondary amine; Indole; Amide; Sulfonamide; Thiophene,2.14; 2.08; 2.08; 2.06; 1.85
+SR-ATAD5,0,20,10.0,3.082207001484488,5,1323,Aldehyde; Furan; Ester; Ether; Cyano,4.85; 2.55; 1.65; 1.32; 1.26
+SR-ATAD5,73,16,12.6,3.646916505762094,5,1224,Halogen (F); Thiophene; Sulfone; Sulfonamide; Pyrimidine,2.81; 2.01; 1.79; 1.78; 1.46
+SR-ATAD5,58,10,13.4,4.39317652729776,5,1601,Pyridine; Pyrimidine; Thiophene; Sulfoxide; Aromatic amine,3.29; 3.26; 2.28; 2.12; 1.89
+SR-ATAD5,74,19,13.8,4.324349662087931,5,1438,Phenol; Sulfoxide; Halogen (I); Indole; Sulfonamide,4.46; 2.88; 2.23; 1.97; 1.96
+SR-ATAD5,110,20,14.4,5.5497747702046425,5,1830,Indole; Primary amine; Secondary amine; Hydroxyl (aliphatic); Piperidine,2.27; 2.07; 1.96; 1.72; 1.70
+SR-ATAD5,29,39,14.6,2.073644135332772,5,1763,Aldehyde; Thiophene; Thioether; Sulfoxide; Piperazine,3.64; 3.64; 2.66; 2.35; 2.18
+SR-ATAD5,24,21,16.0,3.082207001484488,5,935,Thioether; Sulfoxide; Indole; Piperazine; Piperidine,4.18; 2.82; 1.78; 1.64; 1.47
+SR-ATAD5,57,9,17.8,6.016643582596529,5,926,Hydroxyl (aliphatic); Halogen (I); Indole; Sulfonamide; Pyrimidine,3.35; 2.16; 1.98; 1.65; 1.45
+SR-ATAD5,52,16,19.0,6.164414002968976,5,1624,Indole; Ether; Sulfoxide; Ester; Thiophene,2.20; 2.12; 1.86; 1.63; 1.58
+SR-ATAD5,84,15,19.2,9.444575162494075,5,1006,Sulfonamide; Sulfone; Halogen (F); Thiophene; Aromatic amine,6.02; 5.21; 1.86; 1.57; 1.54
+SR-ATAD5,287,8,19.2,2.387467277262665,5,1216,Aromatic amine; Primary amine; Sulfonamide; Amide; Indole,5.27; 5.25; 2.99; 1.70; 1.64
+SR-ATAD5,6,18,19.4,7.127411872482185,5,1359,Indole; Piperidine; Pyridine; Piperazine; Furan,4.72; 2.52; 2.42; 2.39; 2.24
+SR-ATAD5,22,13,20.2,5.974947698515862,5,392,Furan; Thioether; Thiophene; Morpholine; Sulfonamide,3.05; 2.59; 2.26; 2.22; 2.00
+SR-ATAD5,25,8,22.4,11.802542099056456,5,772,Piperidine; Sulfone; Tertiary amine; Indole; Secondary amine,3.59; 3.21; 2.33; 2.05; 2.00
+SR-ATAD5,66,13,23.2,7.293833011524188,5,1198,Thiophene; Furan; Sulfonamide; Ester; Aromatic amine,1.89; 1.63; 1.61; 1.50; 1.48
+SR-ATAD5,252,4,24.2,6.016643582596529,5,465,Thiophene; Ester; Morpholine; Ether; Amide,2.55; 2.33; 1.87; 1.82; 1.47
+SR-ATAD5,23,30,24.6,4.669047011971501,5,824,Sulfoxide; Indole; Thiophene; Piperidine; Tertiary amine,3.20; 2.22; 1.80; 1.53; 1.46
+SR-ATAD5,33,17,26.0,2.9154759474226504,5,695,Indole; Sulfoxide; Halogen (F); Ether; Ester,2.52; 2.17; 1.58; 1.53; 1.46
+SR-ATAD5,219,16,27.2,3.1937438845342627,5,597,Indole; Sulfoxide; Amide; Thiophene; Hydroxyl (aliphatic),3.35; 2.53; 2.36; 1.82; 1.66
+SR-ATAD5,15,26,28.2,4.658325879540846,5,718,Sulfoxide; Phenol; Halogen (I); Sulfonamide; Nitro group,3.15; 2.88; 2.09; 1.89; 1.65
+SR-ATAD5,189,9,28.2,6.760177512462229,5,942,Morpholine; Secondary amine; Ester; Ketone; Pyrimidine,2.08; 2.07; 1.75; 1.72; 1.58
+SR-ATAD5,160,11,31.0,4.8476798574163285,5,486,Halogen (Br); Ester; Piperidine; Hydroxyl (aliphatic); Primary amine,2.68; 1.87; 1.69; 1.65; 1.62
+SR-ATAD5,2,14,32.4,3.3615472627943217,5,964,Amide; Halogen (I); Thiophene; Thioether; Hydroxyl (aliphatic),2.60; 2.08; 1.74; 1.64; 1.61
+SR-ATAD5,184,7,35.8,3.563705936241092,5,246,Pyrimidine; Piperazine; Furan; Pyridine; Secondary amine,6.67; 4.59; 2.65; 2.32; 2.25
+SR-ATAD5,79,9,39.4,8.1117199162693,5,404,Indole; Pyrimidine; Sulfoxide; Piperidine; Thiophene,5.77; 4.43; 3.73; 3.03; 2.20
+SR-HSE,70,27,0.4,0.5477225575051661,5,2801,Ester; Ether; Amide; Ketone; Carboxylic acid,2.14; 1.63; 1.52; 1.47; 1.43
+SR-HSE,168,79,1.0,0.7071067811865476,5,1964,Piperidine; Piperazine; Thiophene; Tertiary amine; Indole,3.06; 2.14; 2.01; 1.99; 1.87
+SR-HSE,72,15,1.8,1.0954451150103321,5,2571,Indole; Thiophene; Benzene ring; Pyridine; Piperazine,2.27; 1.80; 1.68; 1.66; 1.63
+SR-HSE,7,33,3.2,0.8366600265340756,5,2223,Halogen (F); Piperazine; Morpholine; Piperidine; Sulfoxide,2.88; 2.82; 2.64; 2.56; 2.21
+SR-HSE,128,42,3.8,0.8366600265340756,5,2454,Furan; Morpholine; Thiophene; Piperazine; Ketone,2.61; 2.61; 1.73; 1.71; 1.69
+SR-HSE,62,24,5.8,1.9235384061671346,5,1314,Nitro group; Sulfonamide; Sulfone; Thiophene; Thioether,4.88; 2.74; 2.55; 1.58; 1.45
+SR-HSE,139,12,7.8,5.167204273105526,5,2383,Halogen (Cl); Phenol; Nitro group; Piperazine; Halogen (F),2.68; 1.69; 1.63; 1.61; 1.55
+SR-HSE,63,51,8.2,2.3874672772626644,5,2400,Secondary amine; Indole; Amide; Sulfonamide; Thiophene,2.14; 2.08; 2.08; 2.06; 1.85
+SR-HSE,24,21,8.6,1.6733200530681511,5,935,Thioether; Sulfoxide; Indole; Piperazine; Piperidine,4.18; 2.82; 1.78; 1.64; 1.47
+SR-HSE,73,16,9.6,2.302172886644268,5,1224,Halogen (F); Thiophene; Sulfone; Sulfonamide; Pyrimidine,2.81; 2.01; 1.79; 1.78; 1.46
+SR-HSE,0,20,11.2,3.6331804249169903,5,1323,Aldehyde; Furan; Ester; Ether; Cyano,4.85; 2.55; 1.65; 1.32; 1.26
+SR-HSE,52,16,11.8,3.96232255123179,5,1624,Indole; Ether; Sulfoxide; Ester; Thiophene,2.20; 2.12; 1.86; 1.63; 1.58
+SR-HSE,29,39,11.8,1.6431676725154984,5,1763,Aldehyde; Thiophene; Thioether; Sulfoxide; Piperazine,3.64; 3.64; 2.66; 2.35; 2.18
+SR-HSE,6,18,13.2,2.6832815729997477,5,1359,Indole; Piperidine; Pyridine; Piperazine; Furan,4.72; 2.52; 2.42; 2.39; 2.24
+SR-HSE,10,17,13.6,3.5777087639996634,5,1232,Tertiary amine; Thiophene; Halogen (Br); Thiol; Indole,2.65; 2.00; 1.85; 1.73; 1.69
+SR-HSE,110,20,13.6,2.3021728866442674,5,1830,Indole; Primary amine; Secondary amine; Hydroxyl (aliphatic); Piperidine,2.27; 2.07; 1.96; 1.72; 1.70
+SR-HSE,74,19,14.2,5.06951674225463,5,1438,Phenol; Sulfoxide; Halogen (I); Indole; Sulfonamide,4.46; 2.88; 2.23; 1.97; 1.96
+SR-HSE,57,9,18.2,0.44721359549995765,5,926,Hydroxyl (aliphatic); Halogen (I); Indole; Sulfonamide; Pyrimidine,3.35; 2.16; 1.98; 1.65; 1.45
+SR-HSE,58,10,19.0,3.24037034920393,5,1601,Pyridine; Pyrimidine; Thiophene; Sulfoxide; Aromatic amine,3.29; 3.26; 2.28; 2.12; 1.89
+SR-HSE,84,15,19.6,4.03732584763727,5,1006,Sulfonamide; Sulfone; Halogen (F); Thiophene; Aromatic amine,6.02; 5.21; 1.86; 1.57; 1.54
+SR-HSE,287,8,20.6,8.018728078691783,5,1216,Aromatic amine; Primary amine; Sulfonamide; Amide; Indole,5.27; 5.25; 2.99; 1.70; 1.64
+SR-HSE,22,13,22.6,1.8165902124584954,5,392,Furan; Thioether; Thiophene; Morpholine; Sulfonamide,3.05; 2.59; 2.26; 2.22; 2.00
+SR-HSE,189,9,23.4,5.128352561983235,5,942,Morpholine; Secondary amine; Ester; Ketone; Pyrimidine,2.08; 2.07; 1.75; 1.72; 1.58
+SR-HSE,2,14,25.8,7.049822692805827,5,964,Amide; Halogen (I); Thiophene; Thioether; Hydroxyl (aliphatic),2.60; 2.08; 1.74; 1.64; 1.61
+SR-HSE,15,26,26.8,10.401922899156675,5,718,Sulfoxide; Phenol; Halogen (I); Sulfonamide; Nitro group,3.15; 2.88; 2.09; 1.89; 1.65
+SR-HSE,66,13,27.6,7.368853370776216,5,1198,Thiophene; Furan; Sulfonamide; Ester; Aromatic amine,1.89; 1.63; 1.61; 1.50; 1.48
+SR-HSE,231,8,31.8,6.833739825307956,5,632,Pyridine; Sulfoxide; Sulfonamide; Piperazine; Halogen (F),6.10; 4.18; 1.75; 1.57; 1.56
+SR-HSE,23,30,32.6,4.393176527297759,5,824,Sulfoxide; Indole; Thiophene; Piperidine; Tertiary amine,3.20; 2.22; 1.80; 1.53; 1.46
+SR-HSE,190,13,32.8,6.610597552415364,5,793,Secondary amine; Hydroxyl (aliphatic); Morpholine; Aldehyde; Halogen (F),3.62; 2.75; 1.78; 1.48; 1.38
+SR-HSE,56,17,33.6,6.268971207462991,5,726,Thiophene; Sulfonamide; Ketone; Sulfoxide; Halogen (I),2.45; 2.31; 2.24; 2.08; 1.93
+SR-HSE,71,11,35.2,5.932958789676531,5,635,Cyano; Indole; Halogen (I); Sulfoxide; Thiophene,10.10; 2.23; 1.89; 1.78; 1.71
+SR-HSE,67,16,36.2,6.1806148561449765,5,723,Thiophene; Indole; Piperidine; Piperazine; Tertiary amine,3.27; 2.65; 2.28; 2.00; 1.94
+SR-HSE,33,17,38.8,6.978538528947161,5,695,Indole; Sulfoxide; Halogen (F); Ether; Ester,2.52; 2.17; 1.58; 1.53; 1.46
+SR-HSE,25,8,39.4,5.3665631459994945,5,772,Piperidine; Sulfone; Tertiary amine; Indole; Secondary amine,3.59; 3.21; 2.33; 2.05; 2.00
+SR-HSE,80,8,39.6,9.316651759081692,5,422,Carboxylic acid; Indole; Sulfoxide; Thiol; Primary amine,5.81; 3.35; 1.79; 1.79; 1.63
+SR-MMP,70,27,0.0,0.0,5,2801,Ester; Ether; Amide; Ketone; Carboxylic acid,2.14; 1.63; 1.52; 1.47; 1.43
+SR-MMP,72,15,1.4,0.5477225575051661,5,2571,Indole; Thiophene; Benzene ring; Pyridine; Piperazine,2.27; 1.80; 1.68; 1.66; 1.63
+SR-MMP,168,79,1.6,0.5477225575051661,5,1964,Piperidine; Piperazine; Thiophene; Tertiary amine; Indole,3.06; 2.14; 2.01; 1.99; 1.87
+SR-MMP,139,12,3.8,0.8366600265340756,5,2383,Halogen (Cl); Phenol; Nitro group; Piperazine; Halogen (F),2.68; 1.69; 1.63; 1.61; 1.55
+SR-MMP,7,33,4.4,1.6733200530681511,5,2223,Halogen (F); Piperazine; Morpholine; Piperidine; Sulfoxide,2.88; 2.82; 2.64; 2.56; 2.21
+SR-MMP,128,42,5.4,3.2093613071762426,5,2454,Furan; Morpholine; Thiophene; Piperazine; Ketone,2.61; 2.61; 1.73; 1.71; 1.69
+SR-MMP,74,19,6.4,1.140175425099138,5,1438,Phenol; Sulfoxide; Halogen (I); Indole; Sulfonamide,4.46; 2.88; 2.23; 1.97; 1.96
+SR-MMP,62,24,7.6,1.8165902124584952,5,1314,Nitro group; Sulfonamide; Sulfone; Thiophene; Thioether,4.88; 2.74; 2.55; 1.58; 1.45
+SR-MMP,0,20,9.4,2.701851217221259,5,1323,Aldehyde; Furan; Ester; Ether; Cyano,4.85; 2.55; 1.65; 1.32; 1.26
+SR-MMP,73,16,10.0,5.1478150704935,5,1224,Halogen (F); Thiophene; Sulfone; Sulfonamide; Pyrimidine,2.81; 2.01; 1.79; 1.78; 1.46
+SR-MMP,63,51,10.0,2.345207879911715,5,2400,Secondary amine; Indole; Amide; Sulfonamide; Thiophene,2.14; 2.08; 2.08; 2.06; 1.85
+SR-MMP,52,16,10.8,2.4899799195977463,5,1624,Indole; Ether; Sulfoxide; Ester; Thiophene,2.20; 2.12; 1.86; 1.63; 1.58
+SR-MMP,110,20,12.0,3.082207001484488,5,1830,Indole; Primary amine; Secondary amine; Hydroxyl (aliphatic); Piperidine,2.27; 2.07; 1.96; 1.72; 1.70
+SR-MMP,58,10,13.0,2.7386127875258306,5,1601,Pyridine; Pyrimidine; Thiophene; Sulfoxide; Aromatic amine,3.29; 3.26; 2.28; 2.12; 1.89
+SR-MMP,29,39,13.6,2.5099800796022267,5,1763,Aldehyde; Thiophene; Thioether; Sulfoxide; Piperazine,3.64; 3.64; 2.66; 2.35; 2.18
+SR-MMP,6,18,14.6,4.505552130427524,5,1359,Indole; Piperidine; Pyridine; Piperazine; Furan,4.72; 2.52; 2.42; 2.39; 2.24
+SR-MMP,10,17,15.0,1.224744871391589,5,1232,Tertiary amine; Thiophene; Halogen (Br); Thiol; Indole,2.65; 2.00; 1.85; 1.73; 1.69
+SR-MMP,287,8,18.2,6.870225614927067,5,1216,Aromatic amine; Primary amine; Sulfonamide; Amide; Indole,5.27; 5.25; 2.99; 1.70; 1.64
+SR-MMP,24,21,20.8,3.96232255123179,5,935,Thioether; Sulfoxide; Indole; Piperazine; Piperidine,4.18; 2.82; 1.78; 1.64; 1.47
+SR-MMP,56,17,22.0,4.358898943540674,5,726,Thiophene; Sulfonamide; Ketone; Sulfoxide; Halogen (I),2.45; 2.31; 2.24; 2.08; 1.93
+SR-MMP,2,14,22.0,4.123105625617661,5,964,Amide; Halogen (I); Thiophene; Thioether; Hydroxyl (aliphatic),2.60; 2.08; 1.74; 1.64; 1.61
+SR-MMP,57,9,23.0,2.6457513110645903,5,926,Hydroxyl (aliphatic); Halogen (I); Indole; Sulfonamide; Pyrimidine,3.35; 2.16; 1.98; 1.65; 1.45
+SR-MMP,189,9,23.8,8.19756061276768,5,942,Morpholine; Secondary amine; Ester; Ketone; Pyrimidine,2.08; 2.07; 1.75; 1.72; 1.58
+SR-MMP,15,26,25.8,4.868264577855235,5,718,Sulfoxide; Phenol; Halogen (I); Sulfonamide; Nitro group,3.15; 2.88; 2.09; 1.89; 1.65
+SR-MMP,33,17,27.6,4.61519230368573,5,695,Indole; Sulfoxide; Halogen (F); Ether; Ester,2.52; 2.17; 1.58; 1.53; 1.46
+SR-MMP,190,13,28.2,10.709808588392232,5,793,Secondary amine; Hydroxyl (aliphatic); Morpholine; Aldehyde; Halogen (F),3.62; 2.75; 1.78; 1.48; 1.38
+SR-MMP,23,30,28.8,5.06951674225463,5,824,Sulfoxide; Indole; Thiophene; Piperidine; Tertiary amine,3.20; 2.22; 1.80; 1.53; 1.46
+SR-MMP,160,11,30.0,10.36822067666386,5,486,Halogen (Br); Ester; Piperidine; Hydroxyl (aliphatic); Primary amine,2.68; 1.87; 1.69; 1.65; 1.62
+SR-MMP,84,15,30.6,7.231873892705818,5,1006,Sulfonamide; Sulfone; Halogen (F); Thiophene; Aromatic amine,6.02; 5.21; 1.86; 1.57; 1.54
+SR-MMP,22,13,30.8,9.67987603226405,5,392,Furan; Thioether; Thiophene; Morpholine; Sulfonamide,3.05; 2.59; 2.26; 2.22; 2.00
+SR-MMP,184,7,33.8,5.495452665613634,5,246,Pyrimidine; Piperazine; Furan; Pyridine; Secondary amine,6.67; 4.59; 2.65; 2.32; 2.25
+SR-MMP,71,11,33.8,7.5960516059331775,5,635,Cyano; Indole; Halogen (I); Sulfoxide; Thiophene,10.10; 2.23; 1.89; 1.78; 1.71
+SR-MMP,67,16,35.4,9.555103348473002,5,723,Thiophene; Indole; Piperidine; Piperazine; Tertiary amine,3.27; 2.65; 2.28; 2.00; 1.94
+SR-MMP,123,11,36.4,5.128352561983235,5,387,Sulfone; Piperazine; Sulfonamide; Thiophene; Tertiary amine,5.27; 4.55; 4.23; 3.06; 2.43
+SR-MMP,245,15,39.2,8.871302046486749,5,686,Piperazine; Pyridine; Sulfone; Thioether; Halogen (F),3.22; 2.56; 2.55; 2.51; 2.41
+SR-p53,70,27,0.0,0.0,5,2801,Ester; Ether; Amide; Ketone; Carboxylic acid,2.14; 1.63; 1.52; 1.47; 1.43
+SR-p53,168,79,1.2,0.4472135954999579,5,1964,Piperidine; Piperazine; Thiophene; Tertiary amine; Indole,3.06; 2.14; 2.01; 1.99; 1.87
+SR-p53,72,15,1.8,0.4472135954999579,5,2571,Indole; Thiophene; Benzene ring; Pyridine; Piperazine,2.27; 1.80; 1.68; 1.66; 1.63
+SR-p53,128,42,3.8,1.3038404810405297,5,2454,Furan; Morpholine; Thiophene; Piperazine; Ketone,2.61; 2.61; 1.73; 1.71; 1.69
+SR-p53,139,12,4.8,1.3038404810405297,5,2383,Halogen (Cl); Phenol; Nitro group; Piperazine; Halogen (F),2.68; 1.69; 1.63; 1.61; 1.55
+SR-p53,7,33,5.4,2.701851217221259,5,2223,Halogen (F); Piperazine; Morpholine; Piperidine; Sulfoxide,2.88; 2.82; 2.64; 2.56; 2.21
+SR-p53,63,51,6.2,1.3038404810405297,5,2400,Secondary amine; Indole; Amide; Sulfonamide; Thiophene,2.14; 2.08; 2.08; 2.06; 1.85
+SR-p53,74,19,8.0,3.391164991562634,5,1438,Phenol; Sulfoxide; Halogen (I); Indole; Sulfonamide,4.46; 2.88; 2.23; 1.97; 1.96
+SR-p53,10,17,10.4,2.9664793948382653,5,1232,Tertiary amine; Thiophene; Halogen (Br); Thiol; Indole,2.65; 2.00; 1.85; 1.73; 1.69
+SR-p53,110,20,10.6,4.722287581247038,5,1830,Indole; Primary amine; Secondary amine; Hydroxyl (aliphatic); Piperidine,2.27; 2.07; 1.96; 1.72; 1.70
+SR-p53,0,20,10.6,4.505552130427524,5,1323,Aldehyde; Furan; Ester; Ether; Cyano,4.85; 2.55; 1.65; 1.32; 1.26
+SR-p53,24,21,11.0,3.082207001484488,5,935,Thioether; Sulfoxide; Indole; Piperazine; Piperidine,4.18; 2.82; 1.78; 1.64; 1.47
+SR-p53,62,24,11.8,2.7748873851023212,5,1314,Nitro group; Sulfonamide; Sulfone; Thiophene; Thioether,4.88; 2.74; 2.55; 1.58; 1.45
+SR-p53,52,16,12.4,4.39317652729776,5,1624,Indole; Ether; Sulfoxide; Ester; Thiophene,2.20; 2.12; 1.86; 1.63; 1.58
+SR-p53,189,9,13.8,2.8635642126552705,5,942,Morpholine; Secondary amine; Ester; Ketone; Pyrimidine,2.08; 2.07; 1.75; 1.72; 1.58
+SR-p53,73,16,14.4,3.9115214431215892,5,1224,Halogen (F); Thiophene; Sulfone; Sulfonamide; Pyrimidine,2.81; 2.01; 1.79; 1.78; 1.46
+SR-p53,29,39,14.6,1.1401754250991378,5,1763,Aldehyde; Thiophene; Thioether; Sulfoxide; Piperazine,3.64; 3.64; 2.66; 2.35; 2.18
+SR-p53,58,10,16.6,4.219004621945797,5,1601,Pyridine; Pyrimidine; Thiophene; Sulfoxide; Aromatic amine,3.29; 3.26; 2.28; 2.12; 1.89
+SR-p53,6,18,17.6,6.066300355241241,5,1359,Indole; Piperidine; Pyridine; Piperazine; Furan,4.72; 2.52; 2.42; 2.39; 2.24
+SR-p53,57,9,18.6,1.5165750888103104,5,926,Hydroxyl (aliphatic); Halogen (I); Indole; Sulfonamide; Pyrimidine,3.35; 2.16; 1.98; 1.65; 1.45
+SR-p53,23,30,22.6,2.073644135332772,5,824,Sulfoxide; Indole; Thiophene; Piperidine; Tertiary amine,3.20; 2.22; 1.80; 1.53; 1.46
+SR-p53,84,15,22.8,4.43846820423443,5,1006,Sulfonamide; Sulfone; Halogen (F); Thiophene; Aromatic amine,6.02; 5.21; 1.86; 1.57; 1.54
+SR-p53,66,13,24.2,6.099180272790763,5,1198,Thiophene; Furan; Sulfonamide; Ester; Aromatic amine,1.89; 1.63; 1.61; 1.50; 1.48
+SR-p53,33,17,29.4,9.762171889492624,5,695,Indole; Sulfoxide; Halogen (F); Ether; Ester,2.52; 2.17; 1.58; 1.53; 1.46
+SR-p53,287,8,29.6,12.601587201618692,5,1216,Aromatic amine; Primary amine; Sulfonamide; Amide; Indole,5.27; 5.25; 2.99; 1.70; 1.64
+SR-p53,231,8,30.4,5.549774770204643,5,632,Pyridine; Sulfoxide; Sulfonamide; Piperazine; Halogen (F),6.10; 4.18; 1.75; 1.57; 1.56
+SR-p53,245,15,31.2,9.06642156531451,5,686,Piperazine; Pyridine; Sulfone; Thioether; Halogen (F),3.22; 2.56; 2.55; 2.51; 2.41
+SR-p53,22,13,31.6,7.368853370776216,5,392,Furan; Thioether; Thiophene; Morpholine; Sulfonamide,3.05; 2.59; 2.26; 2.22; 2.00
+SR-p53,25,8,31.6,13.352902306240393,5,772,Piperidine; Sulfone; Tertiary amine; Indole; Secondary amine,3.59; 3.21; 2.33; 2.05; 2.00
+SR-p53,175,9,32.0,8.888194417315589,5,491,Furan; Pyrimidine; Thiophene; Cyano; Thioether,3.54; 1.82; 1.81; 1.61; 1.58
+SR-p53,56,17,32.2,9.808159868191384,5,726,Thiophene; Sulfonamide; Ketone; Sulfoxide; Halogen (I),2.45; 2.31; 2.24; 2.08; 1.93
+SR-p53,46,13,32.4,6.9498201415576215,5,637,Indole; Thiophene; Secondary amine; Primary amine; Piperidine,6.01; 2.32; 1.94; 1.80; 1.77
+SR-p53,221,6,32.6,5.319774431308154,5,416,Halogen (Br); Sulfonamide; Thiophene; Indole; Sulfone,15.32; 4.88; 1.90; 1.60; 1.40
+SR-p53,15,26,34.2,5.310367218940701,5,718,Sulfoxide; Phenol; Halogen (I); Sulfonamide; Nitro group,3.15; 2.88; 2.09; 1.89; 1.65
+SR-p53,114,7,38.8,10.709808588392232,5,346,Furan; Sulfone; Morpholine; Piperidine; Hydroxyl (aliphatic),10.05; 2.53; 1.88; 1.77; 1.64
+SR-p53,136,18,41.4,6.730527468185536,5,574,Pyrimidine; Thiophene; Indole; Thioether; Halogen (I),5.71; 3.09; 2.76; 2.14; 1.92

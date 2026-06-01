@@ -1,0 +1,301 @@
+cluster,n_bits,n_active_mols,top_fg,top_fg_enrichment
+0,20,1323,Aldehyde; Furan; Ester; Ether; Cyano,4.85; 2.55; 1.65; 1.32; 1.26
+1,6,160,Halogen (I); Sulfoxide; Thiol; Phenol; Morpholine,2.50; 2.36; 2.36; 2.04; 2.04
+2,14,964,Amide; Halogen (I); Thiophene; Thioether; Hydroxyl (aliphatic),2.60; 2.08; 1.74; 1.64; 1.61
+3,6,131,Indole; Sulfoxide; Piperazine; Thioether; Thiol,5.72; 2.88; 2.76; 1.98; 1.92
+4,9,312,Indole; Thiophene; Phenol; Furan; Piperazine,5.07; 2.53; 1.90; 1.74; 1.74
+5,4,60,Sulfonamide; Sulfone; Thioether; Piperazine; Halogen (Cl),3.56; 2.43; 2.36; 2.26; 1.93
+6,18,1359,Indole; Piperidine; Pyridine; Piperazine; Furan,4.72; 2.52; 2.42; 2.39; 2.24
+7,33,2223,Halogen (F); Piperazine; Morpholine; Piperidine; Sulfoxide,2.88; 2.82; 2.64; 2.56; 2.21
+8,6,92,Thiophene; Morpholine; Thioether; Piperazine; Pyridine,4.29; 3.54; 3.07; 2.94; 2.48
+9,3,54,Thiol; Thiophene; Piperazine; Primary amine; Morpholine,9.31; 7.31; 5.85; 4.24; 4.02
+10,17,1232,Tertiary amine; Thiophene; Halogen (Br); Thiol; Indole,2.65; 2.00; 1.85; 1.73; 1.69
+11,2,32,Thiophene; Primary amine; Sulfonamide; Piperidine; Piperazine,6.16; 4.77; 3.34; 2.99; 2.82
+12,6,439,Piperazine; Secondary amine; Piperidine; Cyano; Furan,4.42; 4.18; 3.18; 2.97; 2.72
+13,6,119,Thiophene; Pyridine; Furan; Piperazine; Thioether,4.14; 3.56; 2.74; 2.66; 2.57
+14,5,148,Sulfonamide; Furan; Thioether; Morpholine; Sulfone,4.57; 3.67; 2.23; 2.20; 1.97
+15,26,718,Sulfoxide; Phenol; Halogen (I); Sulfonamide; Nitro group,3.15; 2.88; 2.09; 1.89; 1.65
+16,4,67,Thioether; Morpholine; Nitro group; Amide; Furan,6.33; 3.24; 2.21; 1.63; 1.62
+17,5,58,Indole; Thioether; Piperazine; Phenol; Aldehyde,4.31; 3.66; 2.34; 2.29; 2.13
+18,4,82,Thiophene; Piperidine; Secondary amine; Cyano; Sulfone,3.61; 2.80; 2.43; 1.93; 1.78
+19,4,54,Sulfoxide; Sulfone; Piperidine; Furan; Amide,6.98; 5.40; 2.13; 2.01; 1.82
+20,4,72,Phenol; Piperidine; Amide; Furan; Sulfonamide,2.13; 2.13; 1.82; 1.51; 1.48
+21,13,338,Sulfoxide; Furan; Indole; Secondary amine; Piperidine,4.46; 2.57; 2.46; 2.16; 2.04
+22,13,392,Furan; Thioether; Thiophene; Morpholine; Sulfonamide,3.05; 2.59; 2.26; 2.22; 2.00
+23,30,824,Sulfoxide; Indole; Thiophene; Piperidine; Tertiary amine,3.20; 2.22; 1.80; 1.53; 1.46
+24,21,935,Thioether; Sulfoxide; Indole; Piperazine; Piperidine,4.18; 2.82; 1.78; 1.64; 1.47
+25,8,772,Piperidine; Sulfone; Tertiary amine; Indole; Secondary amine,3.59; 3.21; 2.33; 2.05; 2.00
+26,4,46,Sulfoxide; Pyrimidine; Furan; Thiophene; Carboxylic acid,16.40; 3.24; 2.36; 2.14; 1.89
+27,8,112,Halogen (I); Piperidine; Halogen (F); Pyridine; Piperazine,4.47; 3.25; 2.67; 2.47; 2.42
+28,7,215,Morpholine; Indole; Pyrimidine; Sulfonamide; Thioether,6.06; 3.10; 2.77; 2.48; 2.08
+29,39,1763,Aldehyde; Thiophene; Thioether; Sulfoxide; Piperazine,3.64; 3.64; 2.66; 2.35; 2.18
+30,5,116,Aromatic amine; Halogen (F); Indole; Primary amine; Thioether,4.08; 2.82; 2.15; 1.97; 1.83
+31,20,368,Piperazine; Ketone; Indole; Sulfone; Hydroxyl (aliphatic),2.70; 2.34; 2.04; 1.98; 1.91
+32,8,321,Sulfone; Piperidine; Sulfoxide; Indole; Morpholine,4.09; 2.74; 2.35; 2.08; 2.03
+33,17,695,Indole; Sulfoxide; Halogen (F); Ether; Ester,2.52; 2.17; 1.58; 1.53; 1.46
+34,5,91,Sulfone; Sulfoxide; Morpholine; Thiophene; Sulfonamide,6.40; 4.14; 3.58; 3.25; 2.35
+35,4,112,Amide; Indole; Morpholine; Sulfonamide; Thiophene,2.73; 2.23; 1.94; 1.91; 1.76
+36,7,297,Indole; Hydroxyl (aliphatic); Halogen (I); Piperidine; Morpholine,4.49; 2.99; 2.70; 1.87; 1.83
+37,7,220,Pyrimidine; Halogen (I); Piperazine; Halogen (F); Halogen (Cl),3.39; 3.19; 2.26; 2.07; 2.01
+38,4,81,Primary amine; Sulfonamide; Thioether; Hydroxyl (aliphatic); Pyridine,2.83; 2.64; 2.33; 2.12; 2.01
+39,9,263,Aldehyde; Morpholine; Halogen (I); Thiophene; Furan,4.45; 3.31; 2.29; 2.25; 2.07
+40,6,251,Morpholine; Thioether; Furan; Piperazine; Thiophene,22.51; 3.10; 2.60; 2.52; 2.36
+41,2,46,Thioether; Halogen (F); Nitro group; Indole; Sulfonamide,3.07; 2.79; 2.14; 1.81; 1.55
+42,5,89,Sulfone; Secondary amine; Piperidine; Primary amine; Thiophene,3.27; 3.23; 2.58; 2.29; 2.22
+43,9,271,Furan; Indole; Aldehyde; Thiophene; Piperidine,4.41; 3.69; 3.18; 2.55; 2.54
+44,3,61,Halogen (F); Piperazine; Pyridine; Sulfone; Secondary amine,4.20; 2.96; 2.67; 2.39; 2.17
+45,8,245,Morpholine; Piperazine; Furan; Sulfoxide; Indole,6.65; 4.42; 3.10; 3.08; 3.06
+46,13,637,Indole; Thiophene; Secondary amine; Primary amine; Piperidine,6.01; 2.32; 1.94; 1.80; 1.77
+47,4,49,Thiophene; Cyano; Sulfone; Pyridine; Halogen (F),4.03; 3.23; 2.97; 2.66; 2.62
+48,7,150,Thioether; Morpholine; Piperidine; Amide; Hydroxyl (aliphatic),2.36; 2.17; 2.17; 1.82; 1.80
+49,17,513,Aldehyde; Sulfoxide; Indole; Furan; Primary amine,2.40; 2.21; 2.11; 1.91; 1.83
+50,3,58,Thiol; Morpholine; Furan; Sulfonamide; Thiophene,13.00; 3.75; 3.75; 3.68; 3.40
+51,10,200,Pyrimidine; Thiophene; Sulfone; Furan; Sulfoxide,3.73; 2.96; 2.91; 2.72; 1.89
+52,16,1624,Indole; Ether; Sulfoxide; Ester; Thiophene,2.20; 2.12; 1.86; 1.63; 1.58
+53,6,118,Thiol; Halogen (I); Thiophene; Halogen (Br); Furan,10.65; 4.24; 2.51; 1.90; 1.84
+54,5,76,Sulfonamide; Furan; Thiol; Piperazine; Thiophene,9.84; 4.29; 3.31; 2.97; 2.60
+55,6,187,Sulfoxide; Piperidine; Halogen (F); Piperazine; Tertiary amine,4.03; 3.68; 2.97; 2.90; 2.30
+56,17,726,Thiophene; Sulfonamide; Ketone; Sulfoxide; Halogen (I),2.45; 2.31; 2.24; 2.08; 1.93
+57,9,926,Hydroxyl (aliphatic); Halogen (I); Indole; Sulfonamide; Pyrimidine,3.35; 2.16; 1.98; 1.65; 1.45
+58,10,1601,Pyridine; Pyrimidine; Thiophene; Sulfoxide; Aromatic amine,3.29; 3.26; 2.28; 2.12; 1.89
+59,8,320,Halogen (I); Furan; Aldehyde; Thiophene; Amide,20.03; 2.72; 2.50; 2.47; 1.93
+60,3,47,Morpholine; Hydroxyl (aliphatic); Thiophene; Ketone; Piperazine,6.94; 2.19; 2.10; 2.03; 1.92
+61,6,168,Indole; Ketone; Piperazine; Pyridine; Piperidine,3.47; 2.78; 2.69; 2.23; 2.05
+62,24,1314,Nitro group; Sulfonamide; Sulfone; Thiophene; Thioether,4.88; 2.74; 2.55; 1.58; 1.45
+63,51,2400,Secondary amine; Indole; Amide; Sulfonamide; Thiophene,2.14; 2.08; 2.08; 2.06; 1.85
+64,7,160,Sulfone; Halogen (Br); Indole; Cyano; Phenol,6.37; 2.56; 2.08; 1.98; 1.53
+65,3,100,Indole; Morpholine; Piperidine; Thiophene; Sulfone,5.83; 4.35; 3.06; 2.96; 2.91
+66,13,1198,Thiophene; Furan; Sulfonamide; Ester; Aromatic amine,1.89; 1.63; 1.61; 1.50; 1.48
+67,16,723,Thiophene; Indole; Piperidine; Piperazine; Tertiary amine,3.27; 2.65; 2.28; 2.00; 1.94
+68,2,50,Furan; Halogen (Br); Piperidine; Thioether; Pyridine,6.52; 5.22; 3.44; 2.36; 1.95
+69,8,169,Sulfoxide; Indole; Thiophene; Secondary amine; Thioether,4.46; 3.94; 3.50; 2.75; 2.23
+70,27,2801,Ester; Ether; Amide; Ketone; Carboxylic acid,2.14; 1.63; 1.52; 1.47; 1.43
+71,11,635,Cyano; Indole; Halogen (I); Sulfoxide; Thiophene,10.10; 2.23; 1.89; 1.78; 1.71
+72,15,2571,Indole; Thiophene; Benzene ring; Pyridine; Piperazine,2.27; 1.80; 1.68; 1.66; 1.63
+73,16,1224,Halogen (F); Thiophene; Sulfone; Sulfonamide; Pyrimidine,2.81; 2.01; 1.79; 1.78; 1.46
+74,19,1438,Phenol; Sulfoxide; Halogen (I); Indole; Sulfonamide,4.46; 2.88; 2.23; 1.97; 1.96
+75,13,351,Sulfoxide; Sulfone; Piperidine; Tertiary amine; Furan,5.37; 4.57; 3.54; 2.76; 2.48
+76,2,39,Halogen (I); Morpholine; Furan; Thiophene; Piperidine,7.71; 5.57; 5.57; 5.06; 2.94
+77,5,111,Halogen (F); Furan; Thiophene; Amide; Halogen (Cl),4.24; 3.92; 3.55; 1.62; 1.62
+78,5,160,Sulfoxide; Thiophene; Piperidine; Morpholine; Tertiary amine,4.71; 2.47; 2.15; 2.04; 2.01
+79,9,404,Indole; Pyrimidine; Sulfoxide; Piperidine; Thiophene,5.77; 4.43; 3.73; 3.03; 2.20
+80,8,422,Carboxylic acid; Indole; Sulfoxide; Thiol; Primary amine,5.81; 3.35; 1.79; 1.79; 1.63
+81,19,525,Halogen (I); Thiophene; Secondary amine; Piperidine; Hydroxyl (aliphatic),2.48; 2.44; 1.77; 1.71; 1.65
+82,4,99,Aldehyde; Pyrimidine; Halogen (F); Halogen (I); Cyano,5.60; 3.01; 2.16; 2.02; 2.00
+83,9,295,Indole; Piperidine; Hydroxyl (aliphatic); Amide; Tertiary amine,3.10; 2.59; 1.86; 1.72; 1.70
+84,15,1006,Sulfonamide; Sulfone; Halogen (F); Thiophene; Aromatic amine,6.02; 5.21; 1.86; 1.57; 1.54
+85,3,68,Ketone; Hydroxyl (aliphatic); Cyano; Phenol; Ester,2.03; 1.77; 1.75; 1.65; 1.65
+86,9,239,Halogen (I); Aromatic amine; Thiophene; Hydroxyl (aliphatic); Ether,6.71; 2.97; 2.89; 1.61; 1.34
+87,4,172,Sulfoxide; Halogen (I); Sulfonamide; Pyridine; Furan,6.58; 4.08; 3.93; 3.22; 2.53
+88,4,113,Thiophene; Sulfonamide; Piperazine; Furan; Cyano,5.24; 2.52; 2.00; 1.92; 1.75
+89,3,178,Thiophene; Carboxylic acid; Halogen (Cl); Sulfone; Secondary amine,3.32; 2.56; 2.49; 2.46; 1.99
+90,6,102,Sulfone; Sulfoxide; Thiophene; Morpholine; Ester,4.29; 3.70; 2.90; 2.13; 2.03
+91,6,131,Halogen (I); Sulfone; Indole; Hydroxyl (aliphatic); Ketone,5.35; 4.45; 1.91; 1.44; 1.38
+92,21,459,Primary amine; Sulfoxide; Piperidine; Thiophene; Furan,3.55; 2.46; 2.29; 2.15; 1.89
+93,16,670,Aldehyde; Pyridine; Sulfoxide; Indole; Piperazine,2.39; 1.75; 1.69; 1.62; 1.55
+94,2,80,Sulfoxide; Thioether; Furan; Halogen (I); Nitro group,4.71; 3.24; 2.72; 2.50; 2.47
+95,4,104,Thiophene; Morpholine; Sulfoxide; Piperidine; Sulfonamide,8.54; 5.22; 3.63; 3.50; 2.74
+96,5,135,Piperazine; Secondary amine; Piperidine; Ether; Ester,3.01; 2.62; 2.41; 2.03; 1.71
+97,2,42,Thiophene; Pyrimidine; Sulfonamide; Pyridine; Carboxylic acid,4.70; 3.55; 2.54; 1.94; 1.84
+98,2,37,Thiophene; Ester; Aldehyde; Carboxylic acid; Nitro group,5.33; 1.92; 1.67; 1.57; 1.33
+99,7,231,Piperazine; Thiol; Halogen (F); Piperidine; Sulfonamide,4.10; 2.72; 2.34; 2.32; 2.00
+100,3,68,Furan; Morpholine; Thiol; Sulfonamide; Phenol,3.20; 3.20; 1.85; 1.57; 1.50
+101,3,33,Sulfone; Piperidine; Sulfonamide; Pyridine; Ester,4.42; 2.32; 2.16; 1.97; 1.97
+102,6,126,Sulfoxide; Furan; Sulfonamide; Piperidine; Halogen (I),2.99; 2.59; 2.54; 2.13; 1.59
+103,3,35,Thiol; Primary amine; Halogen (I); Piperazine; Thioether,3.59; 2.91; 2.86; 2.58; 2.02
+104,4,73,Halogen (I); Thiophene; Indole; Thioether; Piperidine,4.12; 4.05; 3.42; 2.58; 1.84
+105,3,47,Secondary amine; Pyridine; Cyano; Furan; Morpholine,6.11; 2.77; 2.53; 2.31; 2.31
+106,4,142,Secondary amine; Piperazine; Benzene ring; Tertiary amine; Pyridine,4.51; 1.59; 1.41; 1.39; 1.38
+107,6,214,Pyrimidine; Sulfoxide; Indole; Aromatic amine; Sulfonamide,6.97; 5.29; 3.89; 2.80; 2.66
+108,14,420,Sulfoxide; Thioether; Secondary amine; Piperidine; Primary amine,2.69; 2.47; 2.37; 2.23; 2.06
+109,7,251,Sulfoxide; Piperazine; Piperidine; Halogen (F); Pyridine,3.00; 2.88; 2.82; 2.50; 2.07
+110,20,1830,Indole; Primary amine; Secondary amine; Hydroxyl (aliphatic); Piperidine,2.27; 2.07; 1.96; 1.72; 1.70
+111,5,258,Morpholine; Furan; Sulfoxide; Halogen (I); Halogen (F),4.21; 2.95; 2.92; 2.33; 2.10
+112,10,278,Sulfone; Pyridine; Piperazine; Indole; Pyrimidine,6.29; 2.99; 2.92; 2.70; 2.68
+113,13,250,Sulfone; Halogen (F); Indole; Hydroxyl (aliphatic); Pyridine,2.91; 2.28; 2.00; 1.67; 1.63
+114,7,346,Furan; Sulfone; Morpholine; Piperidine; Hydroxyl (aliphatic),10.05; 2.53; 1.88; 1.77; 1.64
+115,4,109,Pyrimidine; Thioether; Thiol; Morpholine; Ketone,8.21; 2.38; 2.31; 1.99; 1.95
+116,3,50,Sulfoxide; Sulfonamide; Thioether; Pyridine; Piperidine,7.54; 4.27; 3.77; 3.58; 3.44
+117,7,378,Secondary amine; Indole; Amide; Sulfonamide; Thioether,3.33; 1.98; 1.76; 1.41; 1.37
+118,4,60,Morpholine; Thiol; Furan; Piperazine; Sulfone,7.24; 6.29; 5.43; 5.27; 4.86
+119,2,62,Furan; Pyridine; Ester; Piperazine; Tertiary amine,3.51; 2.62; 2.57; 2.18; 1.88
+120,5,100,Sulfoxide; Sulfonamide; Thiophene; Amide; Thioether,3.77; 2.14; 1.97; 1.97; 1.65
+121,7,148,Morpholine; Hydroxyl (aliphatic); Ether; Piperidine; Aldehyde,2.94; 1.90; 1.76; 1.68; 1.67
+122,6,151,Halogen (I); Pyrimidine; Thiophene; Thioether; Indole,3.98; 3.95; 3.92; 3.75; 3.31
+123,11,387,Sulfone; Piperazine; Sulfonamide; Thiophene; Tertiary amine,5.27; 4.55; 4.23; 3.06; 2.43
+124,4,75,Thioether; Primary amine; Sulfone; Carboxylic acid; Ketone,2.20; 2.04; 1.94; 1.68; 1.56
+125,3,40,Sulfoxide; Halogen (Br); Thiol; Thiophene; Piperazine,9.43; 3.73; 3.14; 2.47; 2.26
+126,10,395,Indole; Piperidine; Thiophene; Sulfone; Piperazine,5.27; 2.33; 2.25; 1.84; 1.83
+127,4,95,Sulfoxide; Thiol; Thiophene; Cyano; Halogen (F),7.94; 6.62; 3.11; 2.92; 2.10
+128,42,2454,Furan; Morpholine; Thiophene; Piperazine; Ketone,2.61; 2.61; 1.73; 1.71; 1.69
+129,9,328,Thiophene; Cyano; Halogen (I); Piperidine; Halogen (Cl),3.01; 2.65; 2.44; 2.39; 1.96
+130,4,178,Thiophene; Ketone; Piperidine; Ester; Indole,5.54; 2.62; 2.37; 2.36; 2.34
+131,2,43,Thioether; Aldehyde; Primary amine; Thiophene; Cyano,6.03; 4.30; 2.37; 2.29; 1.84
+132,2,38,Indole; Pyridine; Ester; Hydroxyl (aliphatic); Primary amine,2.19; 2.14; 1.55; 1.51; 1.34
+133,6,127,Indole; Thiophene; Morpholine; Sulfoxide; Piperidine,3.93; 3.88; 3.42; 2.97; 2.86
+134,3,87,Furan; Ketone; Indole; Tertiary amine; Secondary amine,5.00; 1.95; 1.91; 1.85; 1.52
+135,9,286,Thioether; Morpholine; Sulfonamide; Thiophene; Pyridine,3.38; 3.04; 2.49; 2.41; 1.71
+136,18,574,Pyrimidine; Thiophene; Indole; Thioether; Halogen (I),5.71; 3.09; 2.76; 2.14; 1.92
+137,2,25,Furan; Thiophene; Pyridine; Ketone; Primary amine,4.35; 3.95; 3.25; 2.97; 2.04
+138,3,106,Sulfonamide; Secondary amine; Piperazine; Indole; Carboxylic acid,4.03; 3.75; 3.41; 3.14; 2.10
+139,12,2383,Halogen (Cl); Phenol; Nitro group; Piperazine; Halogen (F),2.68; 1.69; 1.63; 1.61; 1.55
+140,19,374,Indole; Secondary amine; Thiophene; Piperidine; Piperazine,4.01; 3.31; 2.90; 2.25; 2.05
+141,2,27,Pyrimidine; Halogen (Br); Furan; Halogen (I); Halogen (F),5.52; 4.14; 4.02; 3.71; 3.17
+142,3,108,Ketone; Indole; Nitro group; Sulfone; Piperidine,3.93; 3.08; 2.74; 2.70; 2.66
+143,5,79,Furan; Sulfone; Aldehyde; Halogen (I); Cyano,8.25; 3.69; 3.12; 2.54; 2.00
+144,7,96,Thiophene; Cyano; Indole; Halogen (I); Aldehyde,4.11; 2.89; 2.60; 2.09; 1.93
+145,17,537,Sulfoxide; Sulfonamide; Pyridine; Halogen (F); Sulfone,2.81; 2.79; 2.27; 2.12; 1.90
+146,5,95,Thiophene; Furan; Piperidine; Hydroxyl (aliphatic); Pyrimidine,4.15; 3.43; 2.62; 1.63; 1.57
+147,16,575,Sulfoxide; Piperidine; Indole; Pyridine; Tertiary amine,5.90; 2.96; 2.46; 2.12; 2.09
+148,14,382,Thiophene; Tertiary amine; Cyano; Aldehyde; Sulfone,2.32; 2.09; 1.97; 1.94; 1.91
+149,2,34,Morpholine; Thiophene; Thioether; Piperidine; Halogen (Br),9.59; 2.90; 2.77; 2.25; 2.19
+150,3,74,Aldehyde; Pyridine; Halogen (F); Indole; Cyano,4.17; 2.86; 2.50; 2.25; 2.14
+151,2,47,Furan; Halogen (I); Thioether; Secondary amine; Sulfone,4.62; 4.26; 3.51; 3.29; 3.10
+152,3,76,Pyridine; Thiophene; Thioether; Amide; Cyano,3.85; 2.60; 2.48; 2.09; 1.56
+153,2,50,Halogen (I); Tertiary amine; Secondary amine; Nitro group; Thioether,6.01; 2.33; 2.21; 1.97; 1.89
+154,5,300,Pyrimidine; Morpholine; Sulfonamide; Thiophene; Piperazine,2.98; 2.90; 2.37; 2.30; 2.11
+155,3,115,Sulfone; Thiophene; Primary amine; Sulfonamide; Piperazine,5.07; 3.43; 2.21; 2.17; 1.96
+156,2,25,Sulfoxide; Morpholine; Piperazine; Indole; Pyridine,15.08; 8.69; 3.61; 3.33; 3.25
+157,2,30,Morpholine; Piperidine; Aldehyde; Halogen (I); Halogen (F),7.24; 4.47; 4.11; 3.34; 3.32
+158,3,45,Pyrimidine; Sulfone; Sulfonamide; Aromatic amine; Thioether,6.63; 3.24; 3.17; 3.16; 3.14
+159,2,21,Thiol; Aldehyde; Halogen (Br); Amide; Aromatic amine,5.99; 5.87; 5.32; 2.60; 2.26
+160,11,486,Halogen (Br); Ester; Piperidine; Hydroxyl (aliphatic); Primary amine,2.68; 1.87; 1.69; 1.65; 1.62
+161,2,14,Primary amine; Phenol; Piperazine; Carboxylic acid; Piperidine,9.09; 5.11; 3.22; 2.77; 2.73
+162,3,84,Indole; Aldehyde; Pyridine; Furan; Thiophene,3.96; 2.94; 2.71; 2.59; 2.35
+163,3,64,Morpholine; Secondary amine; Thiophene; Indole; Hydroxyl (aliphatic),5.09; 3.45; 3.08; 2.60; 2.06
+164,2,42,Secondary amine; Piperidine; Thioether; Sulfonamide; Indole,5.79; 5.01; 2.81; 2.54; 1.98
+165,4,53,Aldehyde; Furan; Thiophene; Indole; Pyridine,9.30; 2.05; 1.86; 1.57; 1.54
+166,6,161,Sulfone; Thiophene; Sulfonamide; Pyridine; Thioether,14.48; 3.06; 2.65; 1.92; 1.90
+167,6,231,Indole; Sulfone; Thioether; Aldehyde; Piperidine,2.88; 2.52; 2.45; 2.13; 1.99
+168,79,1964,Piperidine; Piperazine; Thiophene; Tertiary amine; Indole,3.06; 2.14; 2.01; 1.99; 1.87
+169,8,265,Pyridine; Thioether; Indole; Halogen (F); Piperidine,3.19; 2.22; 1.89; 1.88; 1.66
+170,6,460,Piperazine; Tertiary amine; Piperidine; Thiophene; Indole,3.83; 3.33; 3.16; 2.79; 2.17
+171,2,29,Primary amine; Morpholine; Thiophene; Thioether; Tertiary amine,4.39; 3.75; 3.40; 3.25; 2.47
+172,4,123,Primary amine; Piperazine; Furan; Morpholine; Pyridine,5.38; 1.84; 1.77; 1.77; 1.72
+173,4,94,Indole; Aldehyde; Secondary amine; Thiophene; Piperidine,2.66; 2.62; 2.12; 2.10; 2.04
+174,2,24,Thiophene; Indole; Nitro group; Sulfonamide; Amide,4.11; 3.47; 3.08; 2.97; 2.05
+175,9,491,Furan; Pyrimidine; Thiophene; Cyano; Thioether,3.54; 1.82; 1.81; 1.61; 1.58
+176,5,382,Indole; Pyridine; Carboxylic acid; Amide; Halogen (F),2.83; 2.51; 2.21; 2.06; 1.94
+177,4,76,Aromatic amine; Pyridine; Tertiary amine; Sulfone; Halogen (Br),3.95; 2.14; 2.00; 1.92; 1.47
+178,2,33,Thiol; Thiophene; Cyano; Indole; Pyridine,7.62; 5.98; 4.80; 2.52; 2.47
+179,3,35,Piperazine; Thioether; Halogen (I); Thiophene; Indole,3.87; 3.37; 2.86; 2.82; 2.38
+180,5,235,Sulfoxide; Ester; Thioether; Primary amine; Cyano,3.21; 2.44; 1.91; 1.84; 1.68
+181,4,148,Indole; Thioether; Ketone; Piperidine; Thiophene,5.06; 4.94; 2.15; 2.07; 2.00
+182,2,67,Sulfoxide; Aromatic amine; Halogen (I); Pyridine; Halogen (Br),11.26; 9.90; 4.49; 3.40; 3.34
+183,7,212,Piperidine; Thiophene; Tertiary amine; Halogen (F); Amide,4.60; 3.26; 3.04; 2.28; 2.01
+184,7,246,Pyrimidine; Piperazine; Furan; Pyridine; Secondary amine,6.67; 4.59; 2.65; 2.32; 2.25
+185,3,67,Thiophene; Phenol; Aromatic amine; Halogen (Br); Sulfone,2.94; 2.90; 2.59; 2.23; 2.17
+186,3,147,Ketone; Sulfonamide; Thioether; Sulfone; Piperazine,2.96; 2.18; 2.08; 1.98; 1.84
+187,3,79,Indole; Morpholine; Nitro group; Piperidine; Halogen (F),6.32; 5.50; 4.37; 2.42; 1.80
+188,2,30,Sulfoxide; Thiol; Cyano; Thiophene; Indole,12.57; 4.19; 3.96; 3.29; 2.78
+189,9,942,Morpholine; Secondary amine; Ester; Ketone; Pyrimidine,2.08; 2.07; 1.75; 1.72; 1.58
+190,13,793,Secondary amine; Hydroxyl (aliphatic); Morpholine; Aldehyde; Halogen (F),3.62; 2.75; 1.78; 1.48; 1.38
+191,2,54,Sulfonamide; Aromatic amine; Secondary amine; Furan; Ketone,4.62; 3.22; 2.05; 2.01; 1.97
+192,3,96,Halogen (I); Indole; Piperazine; Aldehyde; Piperidine,7.30; 6.94; 3.76; 3.21; 2.39
+193,9,361,Pyridine; Halogen (Br); Sulfoxide; Sulfonamide; Piperidine,4.64; 3.20; 2.09; 1.58; 1.48
+194,3,101,Halogen (Br); Morpholine; Primary amine; Pyridine; Piperidine,8.49; 3.23; 2.77; 2.42; 2.27
+195,11,368,Indole; Piperidine; Pyrimidine; Thioether; Piperazine,3.85; 2.24; 2.03; 1.92; 1.72
+196,4,81,Furan; Halogen (F); Morpholine; Pyridine; Sulfone,8.05; 2.99; 2.68; 2.61; 1.80
+197,3,50,Pyrimidine; Sulfone; Hydroxyl (aliphatic); Thioether; Sulfonamide,17.89; 5.83; 2.75; 2.36; 2.14
+198,3,71,Thiophene; Halogen (I); Piperazine; Tertiary amine; Sulfone,6.95; 4.23; 3.18; 2.65; 2.05
+199,2,23,Furan; Pyridine; Halogen (F); Aldehyde; Ester,4.72; 3.54; 3.10; 2.68; 2.06
+200,8,147,Indole; Sulfone; Furan; Piperazine; Piperidine,4.53; 3.96; 3.70; 2.76; 2.73
+201,4,193,Indole; Piperazine; Amide; Sulfoxide; Secondary amine,3.45; 2.57; 2.01; 1.95; 1.95
+202,3,62,Cyano; Halogen (I); Thioether; Halogen (Br); Piperidine,3.83; 3.23; 3.04; 3.01; 2.47
+203,4,111,Halogen (I); Ketone; Sulfone; Sulfoxide; Piperidine,4.51; 4.11; 3.94; 3.40; 2.24
+204,7,237,Morpholine; Cyano; Sulfone; Tertiary amine; Piperazine,3.21; 3.17; 3.07; 2.27; 2.10
+205,3,39,Furan; Amide; Ketone; Indole; Cyano,2.79; 2.24; 2.18; 2.13; 2.03
+206,4,55,Thiophene; Morpholine; Cyano; Thiol; Furan,7.17; 5.93; 5.04; 2.29; 1.98
+207,2,27,Morpholine; Furan; Thiophene; Piperidine; Halogen (F),8.05; 8.05; 3.65; 3.54; 3.17
+208,3,68,Halogen (I); Piperidine; Sulfone; Hydroxyl (aliphatic); Tertiary amine,2.95; 2.53; 2.14; 1.77; 1.71
+209,7,211,Furan; Sulfoxide; Pyridine; Sulfone; Halogen (F),18.02; 8.94; 2.31; 2.07; 1.89
+210,6,87,Sulfoxide; Morpholine; Furan; Sulfonamide; Aldehyde,8.67; 5.00; 2.50; 2.46; 2.13
+211,13,705,Piperidine; Pyrimidine; Indole; Halogen (F); Ketone,2.42; 1.90; 1.89; 1.72; 1.61
+212,7,187,Halogen (I); Indole; Morpholine; Amide; Cyano,12.86; 3.12; 2.32; 2.13; 2.12
+213,4,141,Ketone; Aldehyde; Thiophene; Halogen (Br); Ester,4.59; 3.06; 2.10; 1.85; 1.55
+214,2,40,Thioether; Furan; Sulfonamide; Halogen (I); Cyano,8.84; 8.15; 3.56; 2.50; 1.98
+215,4,100,Sulfoxide; Sulfonamide; Pyrimidine; Ketone; Hydroxyl (aliphatic),15.08; 3.56; 2.98; 1.70; 1.55
+216,2,33,Phenol; Thiophene; Sulfonamide; Halogen (Cl); Aldehyde,3.41; 2.99; 2.16; 1.95; 1.87
+217,4,195,Sulfoxide; Aromatic amine; Halogen (I); Secondary amine; Piperazine,7.74; 2.11; 2.05; 1.93; 1.85
+218,3,89,Sulfonamide; Halogen (Cl); Piperazine; Pyridine; Hydroxyl (aliphatic),2.00; 1.80; 1.52; 1.46; 1.35
+219,16,597,Indole; Sulfoxide; Amide; Thiophene; Hydroxyl (aliphatic),3.35; 2.53; 2.36; 1.82; 1.66
+220,2,25,Cyano; Morpholine; Sulfonamide; Halogen (I); Aldehyde,4.75; 4.35; 4.27; 4.01; 2.47
+221,6,416,Halogen (Br); Sulfonamide; Thiophene; Indole; Sulfone,15.32; 4.88; 1.90; 1.60; 1.40
+222,4,508,Halogen (I); Amide; Indole; Piperidine; Thiophene,3.35; 2.89; 2.79; 2.18; 2.14
+223,2,30,Furan; Morpholine; Thiophene; Piperazine; Ketone,3.62; 3.62; 3.29; 3.01; 2.48
+224,2,49,Sulfoxide; Furan; Morpholine; Sulfone; Piperidine,7.70; 4.44; 4.44; 2.97; 2.73
+225,6,197,Sulfoxide; Piperazine; Halogen (I); Thiophene; Tertiary amine,32.54; 6.88; 4.58; 4.51; 2.50
+226,2,53,Thioether; Thiol; Thiophene; Primary amine; Sulfone,6.23; 4.74; 3.72; 2.88; 2.75
+227,3,116,Sulfone; Furan; Tertiary amine; Secondary amine; Hydroxyl (aliphatic),5.02; 2.81; 2.78; 2.67; 2.32
+228,4,52,Cyano; Sulfone; Halogen (F); Piperidine; Pyridine,3.04; 2.80; 2.47; 2.21; 2.19
+229,7,160,Indole; Sulfonamide; Hydroxyl (aliphatic); Ketone; Thiophene,3.64; 2.23; 2.22; 2.12; 1.85
+230,3,69,Sulfoxide; Sulfonamide; Sulfone; Halogen (F); Thiophene,5.47; 4.65; 4.22; 3.72; 2.86
+231,8,632,Pyridine; Sulfoxide; Sulfonamide; Piperazine; Halogen (F),6.10; 4.18; 1.75; 1.57; 1.56
+232,2,37,Secondary amine; Nitro group; Cyano; Halogen (Br); Furan,4.78; 4.00; 3.21; 3.02; 2.94
+233,6,255,Ester; Ketone; Hydroxyl (aliphatic); Phenol; Ether,2.13; 2.08; 1.93; 1.76; 1.67
+234,2,46,Tertiary amine; Thioether; Furan; Thiophene; Pyridine,3.70; 3.59; 2.36; 2.14; 2.12
+235,5,173,Thiol; Aromatic amine; Halogen (I); Amide; Hydroxyl (aliphatic),37.06; 4.84; 1.74; 1.48; 1.42
+236,3,30,Morpholine; Thiophene; Cyano; Primary amine; Secondary amine,3.62; 3.29; 2.64; 2.54; 2.21
+237,2,62,Halogen (I); Thiophene; Halogen (F); Secondary amine; Piperidine,8.08; 3.18; 2.99; 2.50; 2.47
+238,1,12,Sulfone; Cyano; Sulfonamide; Hydroxyl (aliphatic); Nitro group,12.14; 3.30; 2.97; 2.39; 2.05
+239,3,79,Halogen (I); Thiol; Thioether; Secondary amine; Primary amine,3.80; 3.18; 2.98; 2.52; 2.25
+240,1,15,Cyano; Secondary amine; Halogen (F); Primary amine; Thioether,5.28; 2.95; 1.90; 1.70; 1.57
+241,3,38,Indole; Aldehyde; Piperidine; Halogen (I); Pyridine,4.38; 3.24; 3.02; 2.64; 2.14
+242,6,159,Pyrimidine; Thiophene; Furan; Sulfonamide; Halogen (I),7.50; 4.34; 3.42; 3.36; 3.15
+243,2,19,Sulfoxide; Thiophene; Morpholine; Piperazine; Piperidine,19.85; 10.38; 5.72; 2.38; 2.01
+244,1,10,Aromatic amine; Tertiary amine; Pyridine; Benzene ring; Halogen (F),3.16; 2.69; 1.63; 1.59; 1.42
+245,15,686,Piperazine; Pyridine; Sulfone; Thioether; Halogen (F),3.22; 2.56; 2.55; 2.51; 2.41
+246,3,78,Morpholine; Carboxylic acid; Primary amine; Pyrimidine; Ester,5.57; 2.61; 2.28; 1.91; 1.89
+247,4,95,Sulfoxide; Sulfone; Pyridine; Phenol; Hydroxyl (aliphatic),7.94; 3.07; 2.40; 1.72; 1.57
+248,2,212,Halogen (Cl); Sulfoxide; Pyrimidine; Halogen (F); Amide,4.33; 3.56; 3.52; 1.68; 1.34
+249,3,77,Furan; Sulfoxide; Piperazine; Thioether; Piperidine,14.11; 4.90; 2.93; 2.14; 1.99
+250,4,291,Piperidine; Indole; Ester; Thiophene; Ether,2.70; 2.58; 2.56; 2.03; 1.90
+251,3,60,Sulfoxide; Morpholine; Halogen (I); Thiophene; Pyridine,6.29; 5.43; 3.34; 3.29; 2.98
+252,4,465,Thiophene; Ester; Morpholine; Ether; Amide,2.55; 2.33; 1.87; 1.82; 1.47
+253,1,18,Primary amine; Halogen (I); Nitro group; Piperazine; Cyano,8.48; 5.57; 5.48; 2.51; 2.20
+254,2,62,Secondary amine; Morpholine; Hydroxyl (aliphatic); Piperazine; Primary amine,4.99; 3.51; 2.49; 2.18; 2.05
+255,2,113,Halogen (Cl); Sulfone; Thiophene; Nitro group; Pyridine,4.15; 3.87; 2.62; 2.40; 2.16
+256,2,25,Thiophene; Pyridine; Morpholine; Halogen (I); Tertiary amine,7.89; 4.56; 4.35; 4.01; 2.87
+257,8,352,Pyrimidine; Sulfonamide; Ketone; Secondary amine; Tertiary amine,8.47; 3.14; 2.41; 1.70; 1.58
+258,3,34,Ketone; Sulfonamide; Thiophene; Piperidine; Amide,4.06; 3.14; 2.90; 2.25; 1.93
+259,2,36,Halogen (Br); Piperidine; Thiophene; Tertiary amine; Thioether,5.18; 3.19; 2.74; 2.24; 1.96
+260,5,76,Sulfoxide; Furan; Thioether; Indole; Nitro group,14.89; 4.29; 2.48; 2.19; 1.95
+261,3,59,Halogen (Br); Aldehyde; Primary amine; Thiol; Furan,5.05; 3.13; 2.16; 2.13; 1.84
+262,3,53,Sulfoxide; Morpholine; Thiophene; Indole; Thioether,7.12; 6.15; 3.72; 3.14; 2.67
+263,6,606,Halogen (F); Phenol; Pyridine; Carboxylic acid; Sulfone,3.08; 2.53; 2.28; 2.21; 2.16
+264,3,100,Sulfoxide; Indole; Sulfone; Thioether; Morpholine,15.08; 4.16; 2.91; 2.36; 2.17
+265,1,20,Furan; Hydroxyl (aliphatic); Nitro group; Phenol; Cyano,5.43; 2.58; 2.47; 2.04; 1.98
+266,1,10,Indole; Primary amine; Piperazine; Aromatic amine; Nitro group,8.33; 5.09; 4.51; 3.16; 2.47
+267,2,33,Thiophene; Sulfone; Pyrimidine; Thiol; Halogen (Br),8.97; 8.83; 4.52; 3.81; 3.39
+268,4,95,Halogen (Br); Pyridine; Morpholine; Tertiary amine; Aromatic amine,2.75; 2.57; 2.29; 1.98; 1.83
+269,4,287,Primary amine; Halogen (F); Halogen (I); Piperazine; Pyridine,9.66; 5.21; 3.84; 2.99; 2.32
+270,4,251,Morpholine; Primary amine; Indole; Aldehyde; Thioether,10.82; 10.14; 4.64; 3.68; 2.54
+271,3,48,Halogen (F); Aldehyde; Thioether; Pyridine; Furan,2.67; 2.57; 2.46; 2.37; 2.26
+272,1,25,Furan; Halogen (Br); Ketone; Halogen (I); Ether,8.69; 5.96; 4.25; 4.01; 1.23
+273,2,59,Sulfoxide; Secondary amine; Ketone; Halogen (I); Hydroxyl (aliphatic),6.39; 4.12; 3.42; 3.40; 2.72
+274,2,58,Sulfoxide; Cyano; Halogen (F); Carboxylic acid; Halogen (Br),6.50; 2.73; 2.46; 2.34; 1.93
+275,2,37,Halogen (I); Thiophene; Nitro group; Tertiary amine; Halogen (Br),8.12; 8.00; 2.67; 2.18; 2.01
+276,8,171,Indole; Piperazine; Hydroxyl (aliphatic); Ketone; Pyrimidine,3.41; 2.38; 2.31; 1.92; 1.74
+277,1,24,Thioether; Carboxylic acid; Ketone; Tertiary amine; Sulfonamide,2.95; 2.42; 2.21; 1.87; 1.48
+278,2,33,Furan; Halogen (I); Halogen (Br); Ketone; Phenol,13.17; 6.07; 3.39; 2.57; 2.48
+279,2,51,Piperidine; Sulfone; Furan; Ester; Secondary amine,3.75; 2.86; 2.13; 1.97; 1.73
+280,3,114,Aromatic amine; Nitro group; Pyridine; Benzene ring; Indole,2.63; 2.38; 1.57; 1.48; 1.46
+281,1,17,Primary amine; Thiophene; Indole; Piperidine; Nitro group,5.99; 5.80; 4.90; 4.50; 4.35
+282,3,55,Thiophene; Cyano; Sulfone; Sulfonamide; Thioether,5.38; 2.88; 2.65; 2.59; 2.57
+283,2,47,Nitro group; Halogen (Cl); Halogen (I); Halogen (F); Pyridine,6.30; 2.60; 2.13; 2.12; 2.08
+284,2,44,Secondary amine; Thiophene; Sulfone; Tertiary amine; Thioether,6.53; 4.48; 3.31; 2.65; 2.14
+285,1,24,Sulfone; Halogen (I); Indole; Halogen (Cl); Secondary amine,6.07; 4.17; 3.47; 3.21; 2.76
+286,2,57,Sulfonamide; Thiophene; Tertiary amine; Phenol; Cyano,3.75; 3.46; 3.46; 2.15; 2.08
+287,8,1216,Aromatic amine; Primary amine; Sulfonamide; Amide; Indole,5.27; 5.25; 2.99; 1.70; 1.64
+288,2,39,Furan; Ketone; Indole; Hydroxyl (aliphatic); Benzene ring,2.79; 2.18; 2.13; 1.47; 1.36
+289,2,37,Indole; Sulfone; Nitro group; Furan; Thiophene,4.50; 3.94; 3.33; 2.94; 2.67
+290,10,465,Carboxylic acid; Halogen (I); Pyridine; Piperazine; Thioether,5.06; 3.23; 3.04; 2.23; 1.93
+291,2,57,Sulfoxide; Sulfone; Aromatic amine; Thiophene; Thioether,6.62; 5.11; 3.60; 3.46; 2.07
+292,3,105,Sulfoxide; Indole; Sulfonamide; Aldehyde; Halogen (F),7.18; 3.96; 3.73; 2.35; 2.17
+293,3,203,Ketone; Pyrimidine; Thiophene; Halogen (I); Phenol,3.45; 2.94; 2.92; 2.47; 2.17
+294,2,20,Morpholine; Sulfonamide; Secondary amine; Primary amine; Thioether,5.43; 3.56; 3.32; 2.54; 2.36
+295,2,120,Halogen (I); Sulfone; Indole; Morpholine; Hydroxyl (aliphatic),5.01; 3.64; 2.08; 1.81; 1.72
+296,10,432,Indole; Piperazine; Thiophene; Piperidine; Hydroxyl (aliphatic),4.24; 2.40; 2.05; 1.99; 1.67
+297,1,14,Halogen (Cl); Thioether; Secondary amine; Ketone; Phenol,1.84; 1.68; 1.58; 1.52; 1.46
+298,4,116,Piperidine; Secondary amine; Furan; Tertiary amine; Morpholine,3.63; 3.24; 2.81; 1.93; 1.87
+299,7,242,Indole; Sulfoxide; Pyridine; Piperazine; Aromatic amine,4.82; 4.68; 3.03; 2.98; 2.48
